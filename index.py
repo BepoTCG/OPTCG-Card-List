@@ -13,6 +13,7 @@ CREATE TABLE IF NOT EXISTS cards (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     code TEXT,
     name TEXT,
+    category TEXT,
     type TEXT,
     cost INTEGER,
     attribute TEXT,
@@ -21,7 +22,7 @@ CREATE TABLE IF NOT EXISTS cards (
     color TEXT,
     sets TEXT,
     effect TEXT,
-    trigger Text,
+    trigger TEXT,
     UNIQUE (code, name, sets)
 )   
 """
@@ -56,12 +57,12 @@ for series in series_list:
     for card_div in card_divs:
         card_data = {
             "code": card_div.select('.infoCol span')[0].text.split('|')[0],
-            "type": card_div.select('.infoCol span')[0].text.split('|')[-1],
+            "category": card_div.select('.infoCol span')[-1].text.lower(),
             "name": card_div.select('.cardName')[0].text,
             "cost": card_div.select('.cost')[0].text[4:],
             "attribute": card_div.select('.attribute i')[0].text,
-            "power": card_div.select('.power')[0].text[5:],
-            "counter": card_div.select('.counter')[0].text[7:],
+            "power": card_div.select('.power')[0].text[5:].replace('-', '0'),
+            "counter": card_div.select('.counter')[0].text[7:].replace('-', '0'),
             "color": card_div.select('.color')[0].text[5:],
             "type": ";".join(card_div.select('.feature')[0].text[4:].split('/')),
             "sets": card_div.select('.getInfo')[0].text[11:],
@@ -69,8 +70,8 @@ for series in series_list:
             "trigger":card_div.select('.trigger')[0].text[7:] if card_div.select('.trigger') else ''
         }
         cards.append(card_data)
-        cursor.execute("INSERT OR IGNORE INTO cards (code, name, type, cost, attribute, power, counter, color, type, sets, effect, trigger) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                        (card_data['code'], card_data['name'], card_data['type'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger']))
+        cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                        (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger']))
         print(card_data)
 
 # Generate json file
