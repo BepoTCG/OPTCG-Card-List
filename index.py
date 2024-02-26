@@ -12,6 +12,7 @@ table_schema = """
 CREATE TABLE IF NOT EXISTS cards (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     code TEXT,
+    image TEXT,
     name TEXT,
     category TEXT,
     type TEXT,
@@ -58,6 +59,7 @@ for series in series_list:
         card_data = {
             "code": card_div.select('.infoCol span')[0].text.split('|')[0],
             "category": card_div.select('.infoCol span')[-1].text.lower(),
+            "image": card_div.find_previous_sibling().select('img')[0]['src'].replace('../', 'https://asia-en.onepiece-cardgame.com/'),
             "name": card_div.select('.cardName')[0].text,
             "cost": card_div.select('.cost')[0].text[4:],
             "attribute": card_div.select('.attribute i')[0].text,
