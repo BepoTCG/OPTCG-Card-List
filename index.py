@@ -4,6 +4,27 @@ import sqlite3
 import os
 import json
 
+color_map = {
+    "赤": "red",
+    "緑": "green",
+    "青": "blue",
+    "紫": "purple",
+    "黄色": "yellow",
+    "黒": "black"
+}
+
+def translate_japanese_color(japanese_colors):
+  # Split the input string into individual colors
+  colors = japanese_colors.split('/')
+
+  # Translate each color using the color map
+  translated_colors = []
+  for color in colors:
+    translated_colors.append(color_map.get(color, color))
+
+  # Join the translated colors back into a string
+  return " ".join(translated_colors)
+
 conn = sqlite3.connect('OPTCG.cdb')
 cursor = conn.cursor()
 
@@ -78,7 +99,7 @@ for series in series_list:
             "attribute": card_div.select('.attribute h3')[0].text,
             "power": card_div.select('.power')[0].text[3:].replace('-', '0'),
             "counter": card_div.select('.counter')[0].text[5:].replace('-', '0'),
-            "color": card_div.select('.color')[0].text[1:],
+            "color": translate_japanese_color(card_div.select('.color')[0].text[1:]),
             "type": ";".join(card_div.select('.feature')[0].text[2:].split('/')),
             "sets": card_div.select('.getInfo')[0].text[11:],
             "effect": card_div.select('.text')[0].text[4:],
