@@ -8,7 +8,7 @@ conn = sqlite3.connect('OPTCG.cdb')
 cursor = conn.cursor()
 
 # Define your table schema with columns and data types
-table_schema = """
+card_schema = """
 CREATE TABLE IF NOT EXISTS cards (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     code TEXT,
@@ -28,13 +28,26 @@ CREATE TABLE IF NOT EXISTS cards (
 )   
 """
 
+card_translations_schema = """
+CREATE TABLE card_translations (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  card_code TEXT NOT NULL,
+  locale TEXT NOT NULL,
+  name TEXT,
+  type TEXT,
+  effect TEXT,
+  trigger TEXT,
+  image TEXT,
+  FOREIGN KEY (card_code) REFERENCES cards(code)
+  UNIQUE (card_code, locale)
+);
+"""
+
 # Execute the create table query
-cursor.execute(table_schema)
+cursor.execute(card_schema)
+cursor.execute(card_translations_schema)
 
-
-
-url = "https://asia-en.onepiece-cardgame.com/cardlist/"
-
+url = "https://onepiece-cardgame.com/cardlist/"
 response = requests.get(url)
 
 # get listed series
@@ -59,22 +72,54 @@ for series in series_list:
         card_data = {
             "code": card_div.select('.infoCol span')[0].text.split('|')[0],
             "category": card_div.select('.infoCol span')[-1].text.lower(),
-            "image": card_div.find_previous_sibling().select('img')[0]['src'].replace('../', 'https://asia-en.onepiece-cardgame.com/'),
+            "image": card_div.find_previous_sibling().select('img')[0]['src'].replace('../', 'https://onepiece-cardgame.com/'),
             "name": card_div.select('.cardName')[0].text,
-            "cost": card_div.select('.cost')[0].text[4:],
-            "attribute": card_div.select('.attribute i')[0].text,
-            "power": card_div.select('.power')[0].text[5:].replace('-', '0'),
-            "counter": card_div.select('.counter')[0].text[7:].replace('-', '0'),
-            "color": card_div.select('.color')[0].text[5:],
-            "type": ";".join(card_div.select('.feature')[0].text[4:].split('/')),
+            "cost": card_div.select('.cost')[0].text[3:],
+            "attribute": card_div.select('.attribute h3')[0].text,
+            "power": card_div.select('.power')[0].text[3:].replace('-', '0'),
+            "counter": card_div.select('.counter')[0].text[5:].replace('-', '0'),
+            "color": card_div.select('.color')[0].text[1:],
+            "type": ";".join(card_div.select('.feature')[0].text[2:].split('/')),
             "sets": card_div.select('.getInfo')[0].text[11:],
+            "effect": card_div.select('.text')[0].text[4:],
+            "trigger":card_div.select('.trigger')[0].text[4:] if card_div.select('.trigger') else ''
+        }
+        cards.append(card_data)
+        cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                        (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image']))
+        print(card_data)
+
+# get english translations
+url = "https://asia-en.onepiece-cardgame.com/cardlist/"
+response = requests.get(url)
+card_locales = []
+soup = BeautifulSoup(response.content, "html.parser")
+series_div = soup.select('#series option')
+series_list = []
+for series_option in series_div:
+    if series_option['value']:
+        series_list.append(series_option['value'])
+for series in series_list: 
+    form_data={"series": series}
+    response = requests.post(url, data=form_data)
+    soup = BeautifulSoup(response.content, "html.parser")
+    card_divs = soup.find_all('dl', class_='modalCol')
+
+
+    for card_div in card_divs:
+        card_data = {
+            "code": card_div.select('.infoCol span')[0].text.split('|')[0],
+            "image": card_div.find_previous_sibling().select('img')[0]['src'].replace('../', 'https://en.onepiece-cardgame.com/'),
+            "name": card_div.select('.cardName')[0].text,
+            "type": ";".join(card_div.select('.feature')[0].text[4:].split('/')),
             "effect": card_div.select('.text')[0].text[6:],
             "trigger":card_div.select('.trigger')[0].text[7:] if card_div.select('.trigger') else ''
         }
-        cards.append(card_data)
-        cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                        (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger']))
+        card_locales.append(card_data)
+        cursor.execute("INSERT OR IGNORE INTO card_translations (card_code, locale, name, type, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                        (card_data['code'], 'en', card_data['name'], card_data['type'], card_data['effect'], card_data['trigger'], card_data['image']))
         print(card_data)
+
 
 # Generate json file
 filename = "OPTCG.json"
@@ -82,7 +127,8 @@ if os.path.exists(filename):
     os.remove(filename)
 
 with open(filename, "w") as f:
-    json.dump(cards, f, indent=4)        
+    json.dump({"card_locales": card_locales, "cards": cards}, f, indent=4)
+  
 
 conn.commit()
 conn.close()
