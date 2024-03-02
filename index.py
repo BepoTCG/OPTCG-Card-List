@@ -61,8 +61,9 @@ CREATE TABLE IF NOT EXISTS card_translations (
   effect TEXT,
   trigger TEXT,
   image TEXT,
+  art_variant INTEGER,
   FOREIGN KEY (card_code) REFERENCES cards(code)
-  UNIQUE (card_code, locale)
+  UNIQUE (card_code, locale, art_variant)
 );
 """
 
@@ -114,8 +115,8 @@ for series in series_list:
         card_data['art_variant'] = int(art_match.group(1)) if art_match else 0
 
         cards.append(card_data)
-        cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                        (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image']))
+        cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image, art_variant) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                        (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image'], card_data['art_variant']))
 
 # get english translations
 print('Download english translations')
@@ -144,10 +145,12 @@ for series in series_list:
             "effect": card_div.select('.text')[0].text[6:],
             "trigger":card_div.select('.trigger')[0].text[7:] if card_div.select('.trigger') else ''
         }
+        art_match = re.search(r'_p(\d+)', card_data['image'])
+        card_data['art_variant'] = int(art_match.group(1)) if art_match else 0
+
         card_locales.append(card_data)
-        cursor.execute("INSERT OR IGNORE INTO card_translations (card_code, locale, name, type, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?)",
-                        (card_data['code'], 'en', card_data['name'], card_data['type'], card_data['effect'], card_data['trigger'], card_data['image']))
-        # print(card_data)
+        cursor.execute("INSERT OR IGNORE INTO card_translations (card_code, locale, name, type, effect, trigger, image, art_variant) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+                        (card_data['code'], 'en', card_data['name'], card_data['type'], card_data['effect'], card_data['trigger'], card_data['image'], card_data['art_variant']))
 
 
 # Generate json file
