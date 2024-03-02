@@ -50,7 +50,7 @@ CREATE TABLE IF NOT EXISTS cards (
 """
 
 card_translations_schema = """
-CREATE TABLE card_translations (
+CREATE TABLE IF NOT EXISTS card_translations (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   card_code TEXT NOT NULL,
   locale TEXT NOT NULL,
@@ -81,6 +81,7 @@ for series_option in series_div:
 
 
 # get cards of each series
+print('Download Basic card info')
 cards = []
 for series in series_list: 
     form_data={"series": series}
@@ -105,12 +106,14 @@ for series in series_list:
             "effect": card_div.select('.text')[0].text[4:],
             "trigger":card_div.select('.trigger')[0].text[4:] if card_div.select('.trigger') else ''
         }
+        if card_data['category'] == 'leader':
+            card_data['cost'] = 0
         cards.append(card_data)
         cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                         (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image']))
-        # print(card_data)
 
 # get english translations
+print('Download english translations')
 url = "https://asia-en.onepiece-cardgame.com/cardlist/"
 response = requests.get(url)
 card_locales = []
