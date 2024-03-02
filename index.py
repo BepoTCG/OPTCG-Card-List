@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import sqlite3
 import os
 import json
+import re
 
 color_map = {
     "赤": "red",
@@ -45,7 +46,8 @@ CREATE TABLE IF NOT EXISTS cards (
     sets TEXT,
     effect TEXT,
     trigger TEXT,
-    UNIQUE (code, name, sets)
+    art_variant INTEGER,
+    UNIQUE (code, name, sets, art_variant)
 )   
 """
 
@@ -108,6 +110,9 @@ for series in series_list:
         }
         if card_data['category'] == 'leader':
             card_data['cost'] = 0
+        art_match = re.search(r'_p(\d+)', card_data['image'])
+        card_data['art_variant'] = int(art_match.group(1)) if art_match else 0
+
         cards.append(card_data)
         cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                         (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image']))
