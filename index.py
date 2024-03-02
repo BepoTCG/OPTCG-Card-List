@@ -9,7 +9,7 @@ color_map = {
     "緑": "green",
     "青": "blue",
     "紫": "purple",
-    "黄色": "yellow",
+    "黄": "yellow",
     "黒": "black"
 }
 
@@ -108,7 +108,7 @@ for series in series_list:
         cards.append(card_data)
         cursor.execute("INSERT OR IGNORE INTO cards (code, name, category, cost, attribute, power, counter, color, type, sets, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                         (card_data['code'], card_data['name'], card_data['category'], card_data['cost'], card_data['attribute'], card_data['power'], card_data['counter'], card_data['color'], card_data['type'], card_data['sets'], card_data['effect'], card_data['trigger'], card_data['image']))
-        print(card_data)
+        # print(card_data)
 
 # get english translations
 url = "https://asia-en.onepiece-cardgame.com/cardlist/"
@@ -139,7 +139,7 @@ for series in series_list:
         card_locales.append(card_data)
         cursor.execute("INSERT OR IGNORE INTO card_translations (card_code, locale, name, type, effect, trigger, image) VALUES (?, ?, ?, ?, ?, ?, ?)",
                         (card_data['code'], 'en', card_data['name'], card_data['type'], card_data['effect'], card_data['trigger'], card_data['image']))
-        print(card_data)
+        # print(card_data)
 
 
 # Generate json file
