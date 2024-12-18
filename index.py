@@ -68,10 +68,8 @@ def generate_tags():
             escaped_keyword = re.escape(keyword)
             pattern = escaped_keyword
             if re.search(pattern, search_source):
-                print(keyword)
                 card_tags.append(value)
 
-        print(effect ,card_tags)
         cursor.execute(f"UPDATE cards SET tags = ? WHERE rowid = ?", (','.join(card_tags), rowid))
 
 
@@ -213,10 +211,10 @@ generate_tags()
 # Generate json file from SQLITE database
 print('Generating JSON file\n')
 df = pd.read_sql_query("SELECT * FROM cards", conn)
-cards = df.to_json(orient="records")
+cards = json.loads(df.to_json(orient="records"))
 
 df = pd.read_sql_query("SELECT * FROM card_translations", conn)
-card_locales = df.to_json(orient="records")
+card_locales = json.loads(df.to_json(orient="records"))
 
 filename = "OPTCG.json"
 if os.path.exists(filename):
@@ -226,10 +224,8 @@ output = {}
 output["card_locales"] = card_locales
 output["cards"] = cards
 
-with open(filename, "w") as f:
-    # json.dump({"card_locales": card_locales, "cards": cards},f, indent=4, sort_keys=True, ensure_ascii=False)
-    # f.write(output)
-    f.write(json.dumps(output))
+with open(filename, "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=2, ensure_ascii=False)
 
 
 conn.commit()
