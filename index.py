@@ -57,12 +57,12 @@ def generate_tags():
     }
 
      # Fetch data and process it. Use parameterized query to prevent SQL injection
-    cursor.execute(f"SELECT rowid, effect, trigger FROM card_translations")
+    cursor.execute(f"SELECT rowid, effect, trigger, card_code FROM card_translations")
     rows = cursor.fetchall()
 
-    for rowid, effect, trigger in rows:
+    for rowid, effect, trigger, card_code in rows:
         card_tags = []
-        search_source = effect
+        search_source = effect + ' ' + trigger
         for keyword, value in tag_map.items():
             # Use re.escape to handle special characters in keywords
             escaped_keyword = re.escape(keyword)
@@ -70,7 +70,7 @@ def generate_tags():
             if re.search(pattern, search_source):
                 card_tags.append(value)
 
-        cursor.execute(f"UPDATE cards SET tags = ? WHERE rowid = ?", (','.join(card_tags), rowid))
+        cursor.execute(f"UPDATE cards SET tags = ? WHERE code = ?", (','.join(card_tags), card_code))
 
 
 
