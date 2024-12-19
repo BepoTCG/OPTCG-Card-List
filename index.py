@@ -142,7 +142,7 @@ def download_core_card_data():
             card_data = {
                 "code": card_div.select('.infoCol span')[0].text.split('|')[0],
                 "category": card_div.select('.infoCol span')[-1].text.lower(),
-                "image": card_div.find_previous_sibling().select('img')[0]['data-src'].replace('../', 'https://onepiece-cardgame.com/'),
+                "image": card_div.select('img[data-src]')[0].attrs['data-src'].replace('../', 'https://onepiece-cardgame.com/'),
                 "name": card_div.select('.cardName')[0].text,
                 "cost": card_div.select('.cost')[0].text[3:],
                 "attribute": card_div.select('.attribute h3')[0].text,
@@ -181,7 +181,7 @@ def download_english_locales():
         for card_div in card_divs:
             card_data = {
                 "code": card_div.select('.infoCol span')[0].text.split('|')[0],
-                "image": card_div.find_previous_sibling().select('img')[0]['data-src'].replace('../', 'https://en.onepiece-cardgame.com/'),
+                "image": card_div.select('img[data-src]')[0].attrs['data-src'].replace('../', 'https://en.onepiece-cardgame.com/'),
                 "name": card_div.select('.cardName')[0].text,
                 "type": ";".join(card_div.select('.feature')[0].text[4:].split('/')),
                 "effect": card_div.select('.text')[0].text[6:],
