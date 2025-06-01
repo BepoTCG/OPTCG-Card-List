@@ -32009,6 +32009,1700 @@
       "trigger": "",
       "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-042_p2.png?250502",
       "art_variant": 2
+    },
+    {
+      "id": 6168,
+      "card_code": "OP12-001",
+      "locale": "en",
+      "name": "Silvers Rayleigh",
+      "type": "Former Roger Pirates",
+      "effect": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck.[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-001.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6169,
+      "card_code": "OP12-001",
+      "locale": "en",
+      "name": "Silvers Rayleigh",
+      "type": "Former Roger Pirates",
+      "effect": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck.[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-001_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6170,
+      "card_code": "OP12-002",
+      "locale": "en",
+      "name": "Edward.Newgate",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-002.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6171,
+      "card_code": "OP12-003",
+      "locale": "en",
+      "name": "Crocus",
+      "type": "Former Roger Pirates",
+      "effect": "[On K.O.] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-003.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6172,
+      "card_code": "OP12-004",
+      "locale": "en",
+      "name": "Kouzuki Oden",
+      "type": "Land of Wano;Kouzuki Clan;Roger Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: This Character gains +2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-004.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6173,
+      "card_code": "OP12-005",
+      "locale": "en",
+      "name": "Shiki",
+      "type": "FILM;Golden Lion Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-005.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6174,
+      "card_code": "OP12-006",
+      "locale": "en",
+      "name": "Shakuyaku",
+      "type": "Amazon Lily",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-006.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6175,
+      "card_code": "OP12-007",
+      "locale": "en",
+      "name": "Shanks",
+      "type": "Roger Pirates",
+      "effect": "[On Play] Up to 1 of your Characters with a type including \"Roger Pirates\" other than [Shanks] gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-007.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6176,
+      "card_code": "OP12-008",
+      "locale": "en",
+      "name": "Shanks",
+      "type": "The Four Emperors;Red-Haired Pirates",
+      "effect": "[Blocker][On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-008.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6177,
+      "card_code": "OP12-008",
+      "locale": "en",
+      "name": "Shanks",
+      "type": "The Four Emperors;Red-Haired Pirates",
+      "effect": "[Blocker][On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-008_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6178,
+      "card_code": "OP12-009",
+      "locale": "en",
+      "name": "Jinbe",
+      "type": "Fish-Man;The Sun Pirates",
+      "effect": "[On Play] You may reveal 2 Events from your hand: This Character gains [Rush] during this turn. Then, this Character gains +1000 power until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-009.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6179,
+      "card_code": "OP12-010",
+      "locale": "en",
+      "name": "Douglas Bullet",
+      "type": "FILM;The Pirates Fest;Former Roger Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-010.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6180,
+      "card_code": "OP12-011",
+      "locale": "en",
+      "name": "Duval",
+      "type": "The Flying Fish Riders",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-011.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6181,
+      "card_code": "OP12-012",
+      "locale": "en",
+      "name": "Buggy",
+      "type": "Roger Pirates",
+      "effect": "[On Play] Up to 1 of your Characters with a type including \"Roger Pirates\" other than [Buggy] gains [Blocker] until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-012.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6182,
+      "card_code": "OP12-013",
+      "locale": "en",
+      "name": "Hatchan",
+      "type": "Fish-Man;Former Arlong Pirates",
+      "effect": "[Activate: Main] You may rest this Character and reveal 2 Events from your hand: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-013.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6183,
+      "card_code": "OP12-014",
+      "locale": "en",
+      "name": "Boa Hancock",
+      "type": "The Seven Warlords of the Sea;Kuja Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-014.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6184,
+      "card_code": "OP12-014",
+      "locale": "en",
+      "name": "Boa Hancock",
+      "type": "The Seven Warlords of the Sea;Kuja Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-014_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6185,
+      "card_code": "OP12-015",
+      "locale": "en",
+      "name": "Monkey.D.Luffy",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power.[On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-015.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6186,
+      "card_code": "OP12-015",
+      "locale": "en",
+      "name": "Monkey.D.Luffy",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power.[On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-015_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6187,
+      "card_code": "OP12-016",
+      "locale": "en",
+      "name": "To Never Doubt--That Is Power!",
+      "type": "Former Roger Pirates",
+      "effect": "[Main] You may give 2 active DON!! cards to 1 of your [Silvers Rayleigh]: Your opponent cannot activate [Blocker] when the card given these DON!! cards attacks during this turn.[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-016.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6188,
+      "card_code": "OP12-017",
+      "locale": "en",
+      "name": "Color of Observation Haki",
+      "type": "Former Roger Pirates",
+      "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Look at 4 cards from the top of your deck; reveal up to 1 red Event or up to 1 Character card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-017.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6189,
+      "card_code": "OP12-018",
+      "locale": "en",
+      "name": "Color of the Supreme King Haki",
+      "type": "Former Roger Pirates",
+      "effect": "[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle. Then, you may rest 1 of your DON!! cards. If you do, give your opponent's Leader and all of their Characters −1000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-018.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6190,
+      "card_code": "OP12-019",
+      "locale": "en",
+      "name": "Color of Arms Haki",
+      "type": "Former Roger Pirates",
+      "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Up to 1 of your Leader or Character cards gains +1000 power during this turn.[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-019.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6191,
+      "card_code": "OP12-020",
+      "locale": "en",
+      "name": "Roronoa Zoro",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-020.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6192,
+      "card_code": "OP12-020",
+      "locale": "en",
+      "name": "Roronoa Zoro",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-020_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6193,
+      "card_code": "OP12-021",
+      "locale": "en",
+      "name": "Ipponmatsu",
+      "type": "East Blue",
+      "effect": "If your Leader has the <Slash> attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.[Blocker]",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-021.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6194,
+      "card_code": "OP12-022",
+      "locale": "en",
+      "name": "Inuarashi",
+      "type": "Minks;Land of Wano;The Akazaya Nine",
+      "effect": "[Activate: Main] You may rest this Character: Up to 1 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-022.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6195,
+      "card_code": "OP12-023",
+      "locale": "en",
+      "name": "Kawamatsu",
+      "type": "Fish-Man;Land of Wano;The Akazaya Nine",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-023.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6196,
+      "card_code": "OP12-024",
+      "locale": "en",
+      "name": "Gyukimaru",
+      "type": "Animal;Land of Wano",
+      "effect": "If this Character is active, this Character cannot be K.O.'d by your opponent's effects.[When Attacking] If you have a total of 3 or more given DON!! cards, rest up to 1 of your opponent's Characters with a base cost of 6 or less.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-024.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6197,
+      "card_code": "OP12-025",
+      "locale": "en",
+      "name": "Kin'emon",
+      "type": "Land of Wano;The Akazaya Nine",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-025.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6198,
+      "card_code": "OP12-026",
+      "locale": "en",
+      "name": "Kuina",
+      "type": "East Blue;Frost Moon Village",
+      "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a base cost of 4 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-026.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6199,
+      "card_code": "OP12-027",
+      "locale": "en",
+      "name": "Koushirou",
+      "type": "East Blue;Frost Moon Village",
+      "effect": "If your <Slash> attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.[Blocker]",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-027.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6200,
+      "card_code": "OP12-028",
+      "locale": "en",
+      "name": "Kouzuki Hiyori",
+      "type": "Land of Wano;Kouzuki Clan",
+      "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-028.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6201,
+      "card_code": "OP12-029",
+      "locale": "en",
+      "name": "Shimotsuki Kouzaburou",
+      "type": "East Blue;Frost Moon Village;Land of Wano",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less. Then, K.O. up to 1 of your opponent's rested Characters with a base cost of 1 or less.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-029.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6202,
+      "card_code": "OP12-030",
+      "locale": "en",
+      "name": "Dracule Mihawk",
+      "type": "Muggy Kingdom;The Seven Warlords of the Sea",
+      "effect": "[Blocker][On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6203,
+      "card_code": "OP12-030",
+      "locale": "en",
+      "name": "Dracule Mihawk",
+      "type": "Muggy Kingdom;The Seven Warlords of the Sea",
+      "effect": "[Blocker][On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6204,
+      "card_code": "OP12-031",
+      "locale": "en",
+      "name": "Tashigi",
+      "type": "East Blue;Navy",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a base cost of 6 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-031.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6205,
+      "card_code": "OP12-031",
+      "locale": "en",
+      "name": "Tashigi",
+      "type": "East Blue;Navy",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a base cost of 6 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-031_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6206,
+      "card_code": "OP12-032",
+      "locale": "en",
+      "name": "Nekomamushi",
+      "type": "Minks;Land of Wano;The Akazaya Nine",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-032.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6207,
+      "card_code": "OP12-033",
+      "locale": "en",
+      "name": "Helmeppo",
+      "type": "East Blue;Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-033.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6208,
+      "card_code": "OP12-034",
+      "locale": "en",
+      "name": "Perona",
+      "type": "Muggy Kingdom;Thriller Bark Pirates",
+      "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6209,
+      "card_code": "OP12-034",
+      "locale": "en",
+      "name": "Perona",
+      "type": "Muggy Kingdom;Thriller Bark Pirates",
+      "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6210,
+      "card_code": "OP12-035",
+      "locale": "en",
+      "name": "Morgan",
+      "type": "East Blue;Navy",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-035.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6211,
+      "card_code": "OP12-036",
+      "locale": "en",
+      "name": "Roronoa Zoro",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "This card in your hand cannot be played by effects.If your Leader has the <Slash> attribute, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +1000 power.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-036.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6212,
+      "card_code": "OP12-037",
+      "locale": "en",
+      "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 3 of your DON!! cards: Rest up to a total of 2 of your opponent's Characters or DON!! cards.[Counter] Your Leader gains +3000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-037.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6213,
+      "card_code": "OP12-037",
+      "locale": "en",
+      "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 3 of your DON!! cards: Rest up to a total of 2 of your opponent's Characters or DON!! cards.[Counter] Your Leader gains +3000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-037_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6214,
+      "card_code": "OP12-038",
+      "locale": "en",
+      "name": "Two-Sword Style Rashomon",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 2 of your DON!! cards: K.O. up to 2 of your opponent's rested Characters with a base cost of 4 or less.[Counter] Your Leader gains +3000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-038.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6215,
+      "card_code": "OP12-039",
+      "locale": "en",
+      "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] Set your [Roronoa Zoro] Leader as active.",
+      "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-039.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6216,
+      "card_code": "OP12-040",
+      "locale": "en",
+      "name": "Kuzan",
+      "type": "Navy",
+      "effect": "When a card is trashed from your hand by your {Navy} type card's effect, draw cards equal to the number of cards trashed.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-040.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6217,
+      "card_code": "OP12-040",
+      "locale": "en",
+      "name": "Kuzan",
+      "type": "Navy",
+      "effect": "When a card is trashed from your hand by your {Navy} type card's effect, draw cards equal to the number of cards trashed.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-040_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6218,
+      "card_code": "OP12-041",
+      "locale": "en",
+      "name": "Sanji",
+      "type": "The Vinsmoke Family;Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −1: Activate up to 1 {Straw Hat Crew} type Event with a base cost of 3 or less from your hand.[When Attacking] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-041.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6219,
+      "card_code": "OP12-041",
+      "locale": "en",
+      "name": "Sanji",
+      "type": "The Vinsmoke Family;Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −1: Activate up to 1 {Straw Hat Crew} type Event with a base cost of 3 or less from your hand.[When Attacking] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-041_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6220,
+      "card_code": "OP12-042",
+      "locale": "en",
+      "name": "Alvida",
+      "type": "Cross Guild",
+      "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.[On Play] Place up to 1 of your opponent's Characters with a base cost of 1 or less at the bottom of the owner's deck.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-042.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6221,
+      "card_code": "OP12-043",
+      "locale": "en",
+      "name": "Kuzan",
+      "type": "Navy",
+      "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost.[On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-043.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6222,
+      "card_code": "OP12-043",
+      "locale": "en",
+      "name": "Kuzan",
+      "type": "Navy",
+      "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost.[On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-043_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6223,
+      "card_code": "OP12-044",
+      "locale": "en",
+      "name": "Sakazuki",
+      "type": "Navy",
+      "effect": "[On Play] If your Leader has the {Navy} type, draw 2 cards.[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-044.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6224,
+      "card_code": "OP12-045",
+      "locale": "en",
+      "name": "Jango",
+      "type": "Navy",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-045.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6225,
+      "card_code": "OP12-046",
+      "locale": "en",
+      "name": "Zephyr(Navy)",
+      "type": "FILM;Navy",
+      "effect": "[On Play] Trash 2 cards from your hand.[Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-046.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6226,
+      "card_code": "OP12-047",
+      "locale": "en",
+      "name": "Sengoku",
+      "type": "Navy",
+      "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-047.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6227,
+      "card_code": "OP12-048",
+      "locale": "en",
+      "name": "Donquixote Rosinante",
+      "type": "Navy",
+      "effect": "[Opponent's Turn] If your blue {Navy} type Character would be removed from the field by your opponent's effect, you may rest this Character and trash 1 card from your hand instead.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-048.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6228,
+      "card_code": "OP12-049",
+      "locale": "en",
+      "name": "Buggy",
+      "type": "The Four Emperors;Cross Guild",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-049.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6229,
+      "card_code": "OP12-050",
+      "locale": "en",
+      "name": "Jaguar.D.Saul",
+      "type": "Giant;Ohara;Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-050.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6230,
+      "card_code": "OP12-051",
+      "locale": "en",
+      "name": "Hina",
+      "type": "Navy",
+      "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your opponent's Characters with a base cost of 4 or less cannot activate [Blocker] during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-051.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6231,
+      "card_code": "OP12-052",
+      "locale": "en",
+      "name": "Fullbody",
+      "type": "Navy",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-052.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6232,
+      "card_code": "OP12-053",
+      "locale": "en",
+      "name": "Borsalino",
+      "type": "Navy",
+      "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.[Opponent's Turn] If your Leader has the {Navy} type, this Character gains [Blocker] and +1000 power.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-053.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6233,
+      "card_code": "OP12-054",
+      "locale": "en",
+      "name": "Marshall.D.Teach",
+      "type": "The Seven Warlords of the Sea;Blackbeard Pirates",
+      "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 1 or less other than this Character to the owner's hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-054.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6234,
+      "card_code": "OP12-055",
+      "locale": "en",
+      "name": "Mohji & Cabaji",
+      "type": "Cross Guild",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-055.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6235,
+      "card_code": "OP12-056",
+      "locale": "en",
+      "name": "Monkey.D.Garp",
+      "type": "Navy",
+      "effect": "[On Play] You may trash 1 card from your hand: Play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-056.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6236,
+      "card_code": "OP12-056",
+      "locale": "en",
+      "name": "Monkey.D.Garp",
+      "type": "Navy",
+      "effect": "[On Play] You may trash 1 card from your hand: Play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-056_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6237,
+      "card_code": "OP12-057",
+      "locale": "en",
+      "name": "Ice Block Pheasant Peck",
+      "type": "Navy",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, trash 1 card from your hand.",
+      "trigger": "[Trigger] You may trash 1 card from your hand: Draw 1 card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-057.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6238,
+      "card_code": "OP12-058",
+      "locale": "en",
+      "name": "I Will Make Whitebeard the King of the Pirates",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", reveal 1 card from the top of your deck. If that card is a Character card with a type including \"Whitebeard Pirates\" and a cost of 9 or less, you may play that card. If you do, that Character gains [Rush] during this turn.",
+      "trigger": "[Trigger] Draw 1 card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-058.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6239,
+      "card_code": "OP12-059",
+      "locale": "en",
+      "name": "Concasser",
+      "type": "Sky Island;Straw Hat Crew",
+      "effect": "[Main] If your Leader is [Sanji], draw 1 card.[Counter] If you have 4 or more Events in your trash, up to 1 of your Leader gains +4000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-059.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6240,
+      "card_code": "OP12-060",
+      "locale": "en",
+      "name": "Boeuf Burst",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If your Leader is multicolored, choose one:• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.• If you have 6 or less cards in your hand, draw 2 cards.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-060.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6241,
+      "card_code": "OP12-060",
+      "locale": "en",
+      "name": "Boeuf Burst",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If your Leader is multicolored, choose one:• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.• If you have 6 or less cards in your hand, draw 2 cards.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-060_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6242,
+      "card_code": "OP12-061",
+      "locale": "en",
+      "name": "Donquixote Rosinante",
+      "type": "Navy;Donquixote Pirates",
+      "effect": "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead.[Activate: Main] [Once Per Turn] DON!! −1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-061.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6243,
+      "card_code": "OP12-061",
+      "locale": "en",
+      "name": "Donquixote Rosinante",
+      "type": "Navy;Donquixote Pirates",
+      "effect": "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead.[Activate: Main] [Once Per Turn] DON!! −1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-061_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6244,
+      "card_code": "OP12-062",
+      "locale": "en",
+      "name": "Vinsmoke Sora",
+      "type": "Kingdom of GERMA;The Vinsmoke Family",
+      "effect": "[On Play] If your Leader is [Sanji] and the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it. Then, draw 1 card.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-062.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6245,
+      "card_code": "OP12-063",
+      "locale": "en",
+      "name": "Vinsmoke Reiju",
+      "type": "The Vinsmoke Family;GERMA 66",
+      "effect": "If you have 4 or more Events in your trash, this Character gains +2000 power and +5 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-063.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6246,
+      "card_code": "OP12-063",
+      "locale": "en",
+      "name": "Vinsmoke Reiju",
+      "type": "The Vinsmoke Family;GERMA 66",
+      "effect": "If you have 4 or more Events in your trash, this Character gains +2000 power and +5 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-063_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6247,
+      "card_code": "OP12-064",
+      "locale": "en",
+      "name": "Vergo",
+      "type": "Punk Hazard;Navy;Donquixote Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-064.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6248,
+      "card_code": "OP12-065",
+      "locale": "en",
+      "name": "Emporio.Ivankov",
+      "type": "Impel Down;Revolutionary Army",
+      "effect": "If you have 4 or more Events in your trash, this Character gains [Blocker].[On K.O.] Add up to 1 Event from your trash to your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-065.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6249,
+      "card_code": "OP12-066",
+      "locale": "en",
+      "name": "Carne",
+      "type": "East Blue",
+      "effect": "If you have 4 or more Events in your trash, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-066.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6250,
+      "card_code": "OP12-067",
+      "locale": "en",
+      "name": "Carmen",
+      "type": "East Blue",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-067.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6251,
+      "card_code": "OP12-068",
+      "locale": "en",
+      "name": "Gin",
+      "type": "East Blue;Krieg Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-068.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6252,
+      "card_code": "OP12-069",
+      "locale": "en",
+      "name": "Crocodile",
+      "type": "The Seven Warlords of the Sea;Baroque Works",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1: If your Leader's type includes \"Baroque Works\", up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-069.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6253,
+      "card_code": "OP12-070",
+      "locale": "en",
+      "name": "Sanji",
+      "type": "Alabasta;Straw Hat Crew",
+      "effect": "This Character gains +1000 power for every 5 Events in your trash.If this Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-070.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6254,
+      "card_code": "OP12-070",
+      "locale": "en",
+      "name": "Sanji",
+      "type": "Alabasta;Straw Hat Crew",
+      "effect": "This Character gains +1000 power for every 5 Events in your trash.If this Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-070_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6255,
+      "card_code": "OP12-071",
+      "locale": "en",
+      "name": "Charlotte Pudding",
+      "type": "Big Mom Pirates",
+      "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-071.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6256,
+      "card_code": "OP12-072",
+      "locale": "en",
+      "name": "Zeff",
+      "type": "East Blue",
+      "effect": "When a DON!! card on your field is returned to your DON!! deck, if your Leader is [Sanji], this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-072.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6257,
+      "card_code": "OP12-073",
+      "locale": "en",
+      "name": "Trafalgar Law",
+      "type": "Dressrosa;Supernovas;Heart Pirates",
+      "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and set it as active. Then, all of your [Donquixote Rosinante] and {Heart Pirates} type Characters gain +1000 power until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-073.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6258,
+      "card_code": "OP12-073",
+      "locale": "en",
+      "name": "Trafalgar Law",
+      "type": "Dressrosa;Supernovas;Heart Pirates",
+      "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and set it as active. Then, all of your [Donquixote Rosinante] and {Heart Pirates} type Characters gain +1000 power until the end of your opponent's next End Phase.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-073_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6259,
+      "card_code": "OP12-074",
+      "locale": "en",
+      "name": "Patty",
+      "type": "East Blue",
+      "effect": "[On Play] You may trash 1 Event from your hand: If your Leader is [Sanji], add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-074.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6260,
+      "card_code": "OP12-075",
+      "locale": "en",
+      "name": "Ms. All Sunday",
+      "type": "Baroque Works",
+      "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, your opponent may add 1 DON!! card from their DON!! deck and set it as active.",
+      "trigger": "[Trigger] DON!! −1: Play this card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-075.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6261,
+      "card_code": "OP12-076",
+      "locale": "en",
+      "name": "Monet",
+      "type": "Punk Hazard;Donquixote Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-076.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6262,
+      "card_code": "OP12-077",
+      "locale": "en",
+      "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+      "type": "Heart Pirates",
+      "effect": "[Main] Select up to 1 of your [Trafalgar Law] cards and that card gains +2000 power during this turn. Then, if the selected card attacks during this turn, your opponent cannot activate [Blocker].",
+      "trigger": "[Trigger] Draw 1 card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-077.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6263,
+      "card_code": "OP12-078",
+      "locale": "en",
+      "name": "Brochette Blow",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, give up to 1 of your opponent's Characters −3000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-078.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6264,
+      "card_code": "OP12-079",
+      "locale": "en",
+      "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-079.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6265,
+      "card_code": "OP12-080",
+      "locale": "en",
+      "name": "Baratie",
+      "type": "East Blue",
+      "effect": "[Activate: Main] You may place this Stage at the bottom of the owner's deck: If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "[Trigger] Play this card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-080.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6266,
+      "card_code": "OP12-081",
+      "locale": "en",
+      "name": "Koala",
+      "type": "Dressrosa;Revolutionary Army",
+      "effect": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-081.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6267,
+      "card_code": "OP12-081",
+      "locale": "en",
+      "name": "Koala",
+      "type": "Dressrosa;Revolutionary Army",
+      "effect": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-081_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6268,
+      "card_code": "OP12-082",
+      "locale": "en",
+      "name": "Issho",
+      "type": "Dressrosa;Navy",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-082.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6269,
+      "card_code": "OP12-083",
+      "locale": "en",
+      "name": "Inazuma",
+      "type": "Revolutionary Army",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-083.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6270,
+      "card_code": "OP12-084",
+      "locale": "en",
+      "name": "Emporio.Ivankov",
+      "type": "Revolutionary Army",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If your Leader has the {Revolutionary Army} type, trash 3 cards from the top of your deck.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-084.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6271,
+      "card_code": "OP12-085",
+      "locale": "en",
+      "name": "Karasu",
+      "type": "Revolutionary Army",
+      "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +3 cost.[When Attacking] If your Leader has the {Revolutionary Army} type and your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-085.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6272,
+      "card_code": "OP12-086",
+      "locale": "en",
+      "name": "Koala",
+      "type": "Dressrosa;Revolutionary Army",
+      "effect": "[On Play] If your Leader has the {Revolutionary Army} type, look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-086.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6273,
+      "card_code": "OP12-086",
+      "locale": "en",
+      "name": "Koala",
+      "type": "Dressrosa;Revolutionary Army",
+      "effect": "[On Play] If your Leader has the {Revolutionary Army} type, look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-086_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6274,
+      "card_code": "OP12-087",
+      "locale": "en",
+      "name": "Nico Robin",
+      "type": "Straw Hat Crew",
+      "effect": "If your Leader is [Koala] or [Monkey.D.Luffy], this Character gains [Blocker] and +3 cost.[On Play] You may trash 1 card from your hand: If your opponent has 5 or more cards in their hand, your opponent trashes 2 cards from their hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-087.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6275,
+      "card_code": "OP12-087",
+      "locale": "en",
+      "name": "Nico Robin",
+      "type": "Straw Hat Crew",
+      "effect": "If your Leader is [Koala] or [Monkey.D.Luffy], this Character gains [Blocker] and +3 cost.[On Play] You may trash 1 card from your hand: If your opponent has 5 or more cards in their hand, your opponent trashes 2 cards from their hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-087_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6276,
+      "card_code": "OP12-088",
+      "locale": "en",
+      "name": "Bastille",
+      "type": "Dressrosa;Navy",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-088.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6277,
+      "card_code": "OP12-089",
+      "locale": "en",
+      "name": "Hack",
+      "type": "Fish-Man;Dressrosa;Revolutionary Army",
+      "effect": "If your Leader has the {Revolutionary Army} type, this Character gains [Blocker] and +4 cost.[On K.O.] If your Leader has the {Revolutionary Army} type, K.O. up to 1 of your opponent's Characters with a base cost of 4 or less.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-089.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6278,
+      "card_code": "OP12-090",
+      "locale": "en",
+      "name": "Belo Betty",
+      "type": "Revolutionary Army",
+      "effect": "[When Attacking] You may trash 2 cards from the top of your deck: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-090.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6279,
+      "card_code": "OP12-091",
+      "locale": "en",
+      "name": "Poker",
+      "type": "Animal Kingdom Pirates;SMILE",
+      "effect": "[Activate: Main] [Once Per Turn] You may place 3 cards from your trash at the bottom of your deck in any order: Up to 2 of your {SMILE} type Characters gain +2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-091.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6280,
+      "card_code": "OP12-092",
+      "locale": "en",
+      "name": "Mizerka",
+      "type": "Animal Kingdom Pirates;SMILE",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-092.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6281,
+      "card_code": "OP12-093",
+      "locale": "en",
+      "name": "Morley",
+      "type": "Giant;Revolutionary Army",
+      "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-093.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6282,
+      "card_code": "OP12-094",
+      "locale": "en",
+      "name": "Monkey.D.Dragon",
+      "type": "Revolutionary Army",
+      "effect": "[On Play] You may place 3 {Revolutionary Army} type cards from your trash at the bottom of your deck in any order: If your Leader has the {Revolutionary Army} type, play up to 1 Character card with a cost of 6 or less from your trash.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-094.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6283,
+      "card_code": "OP12-094",
+      "locale": "en",
+      "name": "Monkey.D.Dragon",
+      "type": "Revolutionary Army",
+      "effect": "[On Play] You may place 3 {Revolutionary Army} type cards from your trash at the bottom of your deck in any order: If your Leader has the {Revolutionary Army} type, play up to 1 Character card with a cost of 6 or less from your trash.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-094_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6284,
+      "card_code": "OP12-095",
+      "locale": "en",
+      "name": "Lindbergh",
+      "type": "Minks;Revolutionary Army",
+      "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.[On Play] Draw 1 card and trash 1 card from your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-095.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6285,
+      "card_code": "OP12-096",
+      "locale": "en",
+      "name": "Ursa Shock",
+      "type": "The Seven Warlords of the Sea;Revolutionary Army",
+      "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 4 or less. If you have a Character with a cost of 8 or more, you may select your opponent's Character with a cost of 6 or less instead.",
+      "trigger": "[Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-096.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6286,
+      "card_code": "OP12-097",
+      "locale": "en",
+      "name": "Captains Assembled",
+      "type": "Revolutionary Army",
+      "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card other than [Captains Assembled] and add it to your hand. Then, trash the rest.",
+      "trigger": "[Trigger] Activate this card's [Main] effect.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-097.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6287,
+      "card_code": "OP12-098",
+      "locale": "en",
+      "name": "Hair Removal Fist",
+      "type": "Impel Down;Revolutionary Army",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have a {Revolutionary Army} type Character with a cost of 8 or more, that card gains an additional +2000 power during this battle.",
+      "trigger": "[Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-098.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6288,
+      "card_code": "OP12-099",
+      "locale": "en",
+      "name": "Kalgara",
+      "type": "Jaya;Sky Island;Shandian Warrior",
+      "effect": "[Your Turn] When a card is removed from your or your opponent's Life cards, draw 1 card. Then, you cannot draw cards using your own effects during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-099.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6289,
+      "card_code": "OP12-100",
+      "locale": "en",
+      "name": "Sabo",
+      "type": "Dressrosa;Revolutionary Army",
+      "effect": "If you have 3 or less Life cards, this Character gains [Blocker] and +3 cost.[On Play] You may add 1 card from the top of your Life cards to your hand: Draw 2 cards and trash 1 card from your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-100.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6290,
+      "card_code": "OP12-101",
+      "locale": "en",
+      "name": "Jewelry Bonney",
+      "type": "Supernovas;Bonney Pirates",
+      "effect": "[Activate: Main] You may rest this Character: Your {Supernovas} type Leader gains +1000 power until the end of your opponent's next turn.",
+      "trigger": "[Trigger] If your Leader has the {Supernovas} type, play this card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-101.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6291,
+      "card_code": "OP12-102",
+      "locale": "en",
+      "name": "Shirahoshi",
+      "type": "Merfolk;Fish-Man Island",
+      "effect": "If your Character with a base cost of 6 or less would be removed from the field by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.[Opponent's Turn] If you have no other [Shirahoshi] with a base cost of 2, all of your {Neptunian} type Characters gain +2000 power.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-102.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6292,
+      "card_code": "OP12-102",
+      "locale": "en",
+      "name": "Shirahoshi",
+      "type": "Merfolk;Fish-Man Island",
+      "effect": "If your Character with a base cost of 6 or less would be removed from the field by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.[Opponent's Turn] If you have no other [Shirahoshi] with a base cost of 2, all of your {Neptunian} type Characters gain +2000 power.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-102_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6293,
+      "card_code": "OP12-103",
+      "locale": "en",
+      "name": "Seto",
+      "type": "Jaya;Sky Island;Shandian Warrior",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-103.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6294,
+      "card_code": "OP12-104",
+      "locale": "en",
+      "name": "Sentomaru",
+      "type": "Egghead;Navy",
+      "effect": "-",
+      "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-104.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6295,
+      "card_code": "OP12-105",
+      "locale": "en",
+      "name": "Trafalgar Lammy",
+      "type": "Flevance",
+      "effect": "[Your Turn] [On Play] Up to 1 of your [Trafalgar Law] cards gains +2000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-105.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6296,
+      "card_code": "OP12-106",
+      "locale": "en",
+      "name": "Trafalgar Law",
+      "type": "Dressrosa;Supernovas;Heart Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-106.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6297,
+      "card_code": "OP12-107",
+      "locale": "en",
+      "name": "Donquixote Doflamingo",
+      "type": "The Seven Warlords of the Sea;Donquixote Pirates",
+      "effect": "If you have 2 or less Life cards, this Character gains [Rush].(This card can attack on the turn in which it is played.)[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-107.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6298,
+      "card_code": "OP12-108",
+      "locale": "en",
+      "name": "Donquixote Rosinante",
+      "type": "Navy;Donquixote Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Trafalgar Law] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6299,
+      "card_code": "OP12-108",
+      "locale": "en",
+      "name": "Donquixote Rosinante",
+      "type": "Navy;Donquixote Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Trafalgar Law] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6300,
+      "card_code": "OP12-109",
+      "locale": "en",
+      "name": "Pacifista",
+      "type": "Biological Weapon;Egghead;Navy",
+      "effect": "-",
+      "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-109.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6301,
+      "card_code": "OP12-110",
+      "locale": "en",
+      "name": "Buffalo",
+      "type": "Donquixote Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-110.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6302,
+      "card_code": "OP12-111",
+      "locale": "en",
+      "name": "Baby 5",
+      "type": "Donquixote Pirates",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-111.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6303,
+      "card_code": "OP12-112",
+      "locale": "en",
+      "name": "Baby 5",
+      "type": "Donquixote Pirates",
+      "effect": "-",
+      "trigger": "[Trigger] If your Leader is multicolored, draw 2 cards.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-112.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6304,
+      "card_code": "OP12-113",
+      "locale": "en",
+      "name": "Roronoa Zoro",
+      "type": "Supernovas;Straw Hat Crew",
+      "effect": "[On K.O.] If your Leader has the {Supernovas} type, play up to 1 {Supernovas} type Character card with a cost of 4 or less from your hand rested.",
+      "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-113.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6305,
+      "card_code": "OP12-114",
+      "locale": "en",
+      "name": "Wyper",
+      "type": "Sky Island;Shandian Warrior",
+      "effect": "-",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-114.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6306,
+      "card_code": "OP12-115",
+      "locale": "en",
+      "name": "I Love You!!",
+      "type": "Navy;Donquixote Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 [Trafalgar Law] from your trash to your hand.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-115.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6307,
+      "card_code": "OP12-116",
+      "locale": "en",
+      "name": "We'll Ring the Bell Waiting for You!!",
+      "type": "Jaya;Sky Island;Shandian Warrior",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal a total of up to 2 {Shandian Warrior} type Character cards or [Mont Blanc Noland] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "[Trigger] Draw 1 card.",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-116.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6308,
+      "card_code": "OP12-117",
+      "locale": "en",
+      "name": "Slam Gibson",
+      "type": "Supernovas;Kid Pirates",
+      "effect": "[Main] You may rest 5 of your DON!! cards: If your Leader has the {Supernovas} type, add up to 1 Character with a cost of 9 or less to the top or bottom of the owner's Life cards face-down.[Counter] Your Leader gains +3000 power during this battle.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-117.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6309,
+      "card_code": "OP12-118",
+      "locale": "en",
+      "name": "Jewelry Bonney",
+      "type": "Supernovas;Bonney Pirates",
+      "effect": "[Blocker][On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-118.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6310,
+      "card_code": "OP12-118",
+      "locale": "en",
+      "name": "Jewelry Bonney",
+      "type": "Supernovas;Bonney Pirates",
+      "effect": "[Blocker][On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-118_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6311,
+      "card_code": "OP12-118",
+      "locale": "en",
+      "name": "Jewelry Bonney",
+      "type": "Supernovas;Bonney Pirates",
+      "effect": "[Blocker][On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-118_p2.png?250502",
+      "art_variant": 2
+    },
+    {
+      "id": 6312,
+      "card_code": "OP12-119",
+      "locale": "en",
+      "name": "Bartholomew Kuma",
+      "type": "The Seven Warlords of the Sea;Revolutionary Army",
+      "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +2 cost until the end of your opponent's next End Phase.[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-119.png?250502",
+      "art_variant": 0
+    },
+    {
+      "id": 6313,
+      "card_code": "OP12-119",
+      "locale": "en",
+      "name": "Bartholomew Kuma",
+      "type": "The Seven Warlords of the Sea;Revolutionary Army",
+      "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +2 cost until the end of your opponent's next End Phase.[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-119_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6314,
+      "card_code": "OP06-050",
+      "locale": "en",
+      "name": "Tashigi",
+      "type": "Navy",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Tashigi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-050_p2.png?250502",
+      "art_variant": 2
+    },
+    {
+      "id": 6315,
+      "card_code": "OP09-013",
+      "locale": "en",
+      "name": "Yasopp",
+      "type": "Red-Haired Pirates",
+      "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png?250502",
+      "art_variant": 1
+    },
+    {
+      "id": 6316,
+      "card_code": "OP09-037",
+      "locale": "en",
+      "name": "Lim",
+      "type": "ODYSSEY",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?250502",
+      "art_variant": 2
+    },
+    {
+      "id": 6317,
+      "card_code": "OP09-093",
+      "locale": "en",
+      "name": "Marshall.D.Teach",
+      "type": "The Four Emperors;Blackbeard Pirates",
+      "effect": "[Blocker][Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?250502",
+      "art_variant": 4
+    },
+    {
+      "id": 6318,
+      "card_code": "OP09-093",
+      "locale": "en",
+      "name": "Marshall.D.Teach",
+      "type": "The Four Emperors;Blackbeard Pirates",
+      "effect": "[Blocker][Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?250502",
+      "art_variant": 5
+    },
+    {
+      "id": 6319,
+      "card_code": "OP10-082",
+      "locale": "en",
+      "name": "Kuzan",
+      "type": "Former Navy;Blackbeard Pirates",
+      "effect": "This Character cannot be removed from the field by your opponent's effects.[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-082_p2.png?250502",
+      "art_variant": 2
+    },
+    {
+      "id": 6320,
+      "card_code": "ST13-011",
+      "locale": "en",
+      "name": "Portgas.D.Ace",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] If you have 2 or less Life cards, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011_p2.png?250502",
+      "art_variant": 2
+    },
+    {
+      "id": 6321,
+      "card_code": "ST18-004",
+      "locale": "en",
+      "name": "Zoro-Juurou",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "trigger": "",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png?250502",
+      "art_variant": 1
     }
   ],
   "cards": [
@@ -82626,7 +84320,7 @@
       "effect": "ルール上、自分はコスト5以上のカードをデッキに入れることができない。【起動メイン】【ターン1回】自分の手札からイベント2枚を公開することができる：自分の元々のパワー4000以下のキャラ1枚までを、このターン中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,main"
     },
     {
       "id": 3206,
@@ -82644,7 +84338,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3207,
@@ -82662,7 +84356,7 @@
       "effect": "【KO時】自分の手札からイベント2枚を公開することができる：自分の手札からパワー3000以下の赤のキャラカード1枚までを、登場させる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "oko"
     },
     {
       "id": 3208,
@@ -82680,7 +84374,7 @@
       "effect": "【起動メイン】【ターン1回】自分の手札からイベント2枚を公開することができる：このキャラは、このターン中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,main"
     },
     {
       "id": 3209,
@@ -82698,7 +84392,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3210,
@@ -82716,7 +84410,7 @@
       "effect": "【登場時】自分のデッキの上から5枚を見て、「モンキー・Ｄ・ルフィ」か赤のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3211,
@@ -82734,7 +84428,7 @@
       "effect": "【登場時】自分の「シャンクス」以外の『ロジャー海賊団』を含む特徴を持つキャラ1枚までは、このターン中、【速攻】を得る。(このカードは登場したターンにアタックできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,rsh"
     },
     {
       "id": 3212,
@@ -82752,7 +84446,7 @@
       "effect": "【ブロッカー】【相手のアタック時】【ターン1回】自分の手札1枚を捨てることができる：相手のリーダーかキャラ1枚までを、このターン中、パワー-2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "oatk,opt,blk"
     },
     {
       "id": 3213,
@@ -82770,7 +84464,7 @@
       "effect": "【登場時】自分の手札からイベント2枚を公開することができる：このキャラは、このターン中、【速攻】を得る。その後、次の相手のエンドフェイズ終了時まで、このキャラのパワー+1000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,rsh"
     },
     {
       "id": 3214,
@@ -82788,7 +84482,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3215,
@@ -82806,7 +84500,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3216,
@@ -82824,7 +84518,7 @@
       "effect": "【登場時】自分の「バギー」以外の『ロジャー海賊団』を含む特徴を持つキャラ1枚までは、次の相手のエンドフェイズ終了時まで、【ブロッカー】を得る。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3217,
@@ -82842,7 +84536,7 @@
       "effect": "【起動メイン】このキャラをレストにし、自分の手札からイベント2枚を公開することができる：自分のリーダーかキャラ1枚にレストのドン‼2枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3218,
@@ -82860,7 +84554,7 @@
       "effect": "【登場時】自分のデッキの上から5枚を見て、「モンキー・Ｄ・ルフィ」か赤のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。【起動メイン】このキャラをトラッシュに置くことができる：自分のリーダーかキャラ1枚にレストのドン‼2枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,main"
     },
     {
       "id": 3219,
@@ -82878,7 +84572,7 @@
       "effect": "自分の付与されているドン‼が合計2枚以上ある場合、このキャラのパワー+2000。【登場時】自分の手札からイベント2枚を公開することができる：自分の手札からパワー3000以下の赤のキャラカード1枚までを、登場させる。その後、自分のリーダーかキャラ1枚にレストのドン‼1枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3220,
@@ -82896,7 +84590,7 @@
       "effect": "【メイン】自分の「シルバーズ・レイリー」1枚にアクティブのドン‼2枚を付与することができる：相手は、このターン中、その付与したカードがアタックする場合【ブロッカー】を発動できない。【カウンター】自分のキャラか「シルバーズ・レイリー」1枚までを、このバトル中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,main,ctr"
     },
     {
       "id": 3221,
@@ -82914,7 +84608,7 @@
       "effect": "【メイン】自分の「シルバーズ・レイリー」1枚にアクティブのドン‼1枚を付与することができる：自分のデッキの上から4枚を見て、赤のイベントかコスト3以上のキャラカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3222,
@@ -82932,7 +84626,7 @@
       "effect": "【カウンター】自分のキャラか「シルバーズ・レイリー」1枚までを、このバトル中、パワー+2000。その後、自分のドン‼1枚をレストにできる。そうした場合、相手のリーダーとキャラすべてを、このターン中、パワー-1000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "ctr"
     },
     {
       "id": 3223,
@@ -82950,7 +84644,7 @@
       "effect": "【メイン】自分の「シルバーズ・レイリー」1枚にアクティブのドン‼1枚を付与することができる：自分のリーダーかキャラ1枚までを、このターン中、パワー+1000。【カウンター】自分のキャラか「シルバーズ・レイリー」1枚までを、このバトル中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,ctr"
     },
     {
       "id": 3224,
@@ -82968,7 +84662,7 @@
       "effect": "【ドン‼×3】【起動メイン】【ターン1回】このターン中、このリーダーが相手のキャラとバトルしている場合、このリーダーをアクティブにする。その後、このリーダーは、このターン中、相手の元々のコスト7以下のキャラへアタックできない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "don,opt,main"
     },
     {
       "id": 3225,
@@ -82986,7 +84680,7 @@
       "effect": "自分のリーダーが属性(斬)を持ち、自分のレストのドン‼が6枚以上ある場合、このキャラは相手の効果でレストにされない。【ブロッカー】",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3226,
@@ -83004,7 +84698,7 @@
       "effect": "【起動メイン】このキャラをレストにできる：相手のレストのコスト5以下のキャラ1枚までは、次の相手のリフレッシュフェイズでアクティブにならない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3227,
@@ -83022,7 +84716,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3228,
@@ -83040,7 +84734,7 @@
       "effect": "このキャラがアクティブの場合、このキャラは相手の効果でKOされない。【アタック時】自分の付与されているドン‼が合計3枚以上ある場合、相手の元々のコスト6以下のキャラ1枚までを、レストにする。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "atk"
     },
     {
       "id": 3229,
@@ -83058,7 +84752,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3230,
@@ -83076,7 +84770,7 @@
       "effect": "【起動メイン】このキャラをレストにできる：相手の元々のコスト4以下のキャラ1枚までを、レストにする。その後、自分のリーダーの「ロロノア・ゾロ」にレストのドン‼3枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3231,
@@ -83094,7 +84788,7 @@
       "effect": "このキャラ以外の自分のコスト5以下の属性(斬)を持つキャラが相手の効果でKOされる場合、代わりにこのキャラをレストにできる。【ブロッカー】",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3232,
@@ -83112,7 +84806,7 @@
       "effect": "【起動メイン】自分のドン‼1枚とこのキャラをレストにできる：自分のリーダーが「ロロノア・ゾロ」の場合、自分のデッキの上から5枚を見て、属性(斬)を持つカードか緑のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3233,
@@ -83130,7 +84824,7 @@
       "effect": "【登場時】相手のコスト2以下のキャラ1枚までを、レストにする。その後、相手のレストの元々のコスト1以下のキャラ1枚までを、KOする。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3234,
@@ -83148,7 +84842,7 @@
       "effect": "【ブロッカー】【登場時】自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト7以上のキャラカードを登場できない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3235,
@@ -83166,7 +84860,7 @@
       "effect": "【登場時】相手の元々のコスト6以下のキャラ1枚までを、レストにする。その後、自分のリーダーの「ロロノア・ゾロ」にレストのドン‼3枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3236,
@@ -83184,7 +84878,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3237,
@@ -83202,7 +84896,7 @@
       "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)【ブロック時】相手のコスト5以下のキャラ1枚までを、レストにする。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,onblk"
     },
     {
       "id": 3238,
@@ -83220,7 +84914,7 @@
       "effect": "【登場時】自分のリーダーが属性(斬)を持つ場合、自分のデッキの上から5枚を見て、属性(斬)を持つカードか緑のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3239,
@@ -83238,7 +84932,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3240,
@@ -83256,7 +84950,7 @@
       "effect": "手札のこのカードは、効果で登場できない。自分のリーダーが属性(斬)を持つ場合、このキャラは属性(斬)を持つカードとのバトルでKOされず、パワー+1000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3241,
@@ -83274,7 +84968,7 @@
       "effect": "【メイン】自分のドン‼3枚をレストにできる：相手の、キャラかドン‼合計2枚までを、レストにする。【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,ctr"
     },
     {
       "id": 3242,
@@ -83292,7 +84986,7 @@
       "effect": "【メイン】自分のドン‼2枚をレストにできる：相手のレストの、元々のコスト4以下のキャラ2枚までを、KOする。【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,ctr"
     },
     {
       "id": 3243,
@@ -83310,7 +85004,7 @@
       "effect": "【メイン】自分のリーダーの「ロロノア・ゾロ」を、アクティブにする。",
       "trigger": "【トリガー】自分のリーダーかキャラ1枚までを、このターン中、パワー+1000。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3244,
@@ -83328,7 +85022,7 @@
       "effect": "自分の特徴《海軍》を持つカードの効果で自分の手札からカードが捨てられた時、捨てた枚数分カードを引く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3245,
@@ -83346,7 +85040,7 @@
       "effect": "【起動メイン】【ターン1回】ドン‼-1：自分の手札から元々のコスト3以下の特徴《麦わらの一味》を持つイベント1枚までを、発動する。【アタック時】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、ドン‼デッキからドン‼1枚までを、レストで追加する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "atk,opt,main"
     },
     {
       "id": 3246,
@@ -83364,7 +85058,7 @@
       "effect": "自分の元々のコスト5以上のキャラが2枚以上いる場合、このキャラのコスト+1。【登場時】相手の元々のコスト1以下のキャラ1枚までを、持ち主のデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3247,
@@ -83382,7 +85076,7 @@
       "effect": "自分の手札が5枚以上の場合、このキャラのコスト+1。【登場時】自分の手札1枚を捨てることができる：相手のキャラ1枚までは、次の相手のエンドフェイズ終了時まで、アタックできない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3248,
@@ -83400,7 +85094,7 @@
       "effect": "【登場時】自分のリーダーが特徴《海軍》を持つ場合、カード2枚を引く。【起動メイン】【ターン1回】自分の手札1枚を捨てることができる：自分のリーダーかキャラ1枚にレストのドン‼1枚までを、付与する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,opl,main"
     },
     {
       "id": 3249,
@@ -83418,7 +85112,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3250,
@@ -83436,7 +85130,7 @@
       "effect": "【登場時】自分の手札2枚を捨てる。【起動メイン】このキャラをトラッシュに置くことができる：コスト5以下のキャラ1枚までを、持ち主の手札に戻す。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,main"
     },
     {
       "id": 3251,
@@ -83454,7 +85148,7 @@
       "effect": "【登場時】自分の手札1枚を捨てることができる：自分のデッキの上から5枚を見て、「センゴク」以外の特徴《海軍》を持つカード2枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3252,
@@ -83472,7 +85166,7 @@
       "effect": "【相手のターン中】自分の青の特徴《海軍》を持つキャラが相手の効果で場を離れる場合、代わりにこのキャラをレストにし、自分の手札1枚を捨てることができる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3253,
@@ -83490,7 +85184,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3254,
@@ -83508,7 +85202,7 @@
       "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3255,
@@ -83526,7 +85220,7 @@
       "effect": "【起動メイン】このキャラをレストにし、自分の手札1枚を捨てることができる：相手の元々のコスト4以下のキャラ1枚までは、このターン中、【ブロッカー】を発動できない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,main"
     },
     {
       "id": 3256,
@@ -83544,7 +85238,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3257,
@@ -83562,7 +85256,7 @@
       "effect": "【ターン1回】このキャラが相手の効果で場を離れる場合、代わりに自分の手札1枚を捨てることができる。【相手のターン中】自分のリーダーが特徴《海軍》を持つ場合、このキャラは【ブロッカー】を得て、パワー+1000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,blk"
     },
     {
       "id": 3258,
@@ -83580,7 +85274,7 @@
       "effect": "【登場時】自分のリーダーが特徴《王下七武海》を持つ場合、このキャラ以外のコスト1以下のキャラ1枚までを、持ち主の手札に戻す。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3259,
@@ -83598,7 +85292,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3260,
@@ -83616,7 +85310,7 @@
       "effect": "【登場時】自分の手札1枚を捨てることができる：自分の手札から「モンキー・Ｄ・ガープ」以外のパワー8000以下の青の特徴《海軍》を持つキャラカード1枚までを、登場させる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3261,
@@ -83634,7 +85328,7 @@
       "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+4000。その後、自分の手札1枚を捨てる。",
       "trigger": "【トリガー】自分の手札1枚を捨てることができる：カード1枚を引く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg,ctr"
     },
     {
       "id": 3262,
@@ -83652,7 +85346,7 @@
       "effect": "【メイン】自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、自分のデッキの上から1枚を公開し、そのカードがコスト9以下の『白ひげ海賊団』を含む特徴を持つキャラカードの場合、登場させてもよい。登場させた場合、そのキャラは、このターン中、【速攻】を得る。",
       "trigger": "【トリガー】カード1枚を引く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "rsh,main,trg"
     },
     {
       "id": 3263,
@@ -83670,7 +85364,7 @@
       "effect": "【メイン】自分のリーダーが「サンジ」の場合、カード1枚を引く。【カウンター】自分のトラッシュにイベントが4枚以上ある場合、自分のリーダー1枚までを、このバトル中、パワー+4000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,ctr"
     },
     {
       "id": 3264,
@@ -83688,7 +85382,7 @@
       "effect": "【メイン】自分のリーダーが多色の場合、以下から1つを選ぶ。・相手のコスト4以下のキャラ1枚までを、持ち主の手札に戻す。・自分の手札が6枚以下の場合、カード2枚を引く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3265,
@@ -83706,7 +85400,7 @@
       "effect": "【ターン1回】自分の「トラファルガー・ロー」がKOされる場合、代わりに自分のライフの上から1枚を手札に加えることができる。【起動メイン】【ターン1回】ドン‼-1：このターン中、次に自分が手札から登場させるコスト4以上の「トラファルガー・ロー」の支払うコストは2少なくなる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,main"
     },
     {
       "id": 3266,
@@ -83724,7 +85418,7 @@
       "effect": "【登場時】自分のリーダーが「サンジ」で、自分の場のドン‼が相手の場のドン‼の枚数以下の場合、ドン‼デッキからドン‼1枚までを、レストで追加する。その後、カード1枚を引く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3267,
@@ -83742,7 +85436,7 @@
       "effect": "自分のトラッシュにイベントが4枚以上ある場合、このキャラのパワー+2000し、コスト+5。【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3268,
@@ -83760,7 +85454,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3269,
@@ -83778,7 +85472,7 @@
       "effect": "自分のトラッシュにイベントが4枚以上ある場合、このキャラは【ブロッカー】を得る。【KO時】自分のトラッシュからイベント1枚までを、手札に加える。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,oko"
     },
     {
       "id": 3270,
@@ -83796,7 +85490,7 @@
       "effect": "自分のトラッシュにイベントが4枚以上ある場合、このキャラは【ブロッカー】を得る。(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3271,
@@ -83814,7 +85508,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3272,
@@ -83832,7 +85526,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3273,
@@ -83850,7 +85544,7 @@
       "effect": "【相手のアタック時】【ターン1回】ドン‼-1：自分のリーダーが『B・W』を含む特徴を持つ場合、自分のリーダーかキャラ1枚までを、このバトル中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "oatk,opt"
     },
     {
       "id": 3274,
@@ -83868,7 +85562,7 @@
       "effect": "このキャラは、自分のトラッシュにあるイベント5枚につき、パワー+1000。このキャラが相手の効果で場を離れる場合、代わりに自分の場のドン‼1枚をドン‼デッキに戻すことができる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3275,
@@ -83886,7 +85580,7 @@
       "effect": "【登場時】自分のデッキの上から4枚を見て、「サンジ」かイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3276,
@@ -83904,7 +85598,7 @@
       "effect": "自分の場のドン‼がドン‼デッキに戻された時、自分のリーダーが「サンジ」の場合、このキャラは、このターン中、【速攻】を得る。(このカードは登場したターンにアタックできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "rsh"
     },
     {
       "id": 3277,
@@ -83922,7 +85616,7 @@
       "effect": "【登場時】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、ドン‼デッキからドン‼1枚までを、アクティブで追加する。その後、自分の、「ドンキホーテ・ロシナンテ」と特徴《ハートの海賊団》を持つキャラすべてを、次の相手のエンドフェイズ終了時まで、パワー+1000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3278,
@@ -83940,7 +85634,7 @@
       "effect": "【登場時】自分の手札からイベント1枚を捨てることができる：自分のリーダーが「サンジ」の場合、ドン‼デッキからドン‼1枚までを、アクティブで追加する。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3279,
@@ -83958,7 +85652,7 @@
       "effect": "【登場時】相手のコスト3以下のキャラ1枚までを、KOする。その後、相手はドン‼デッキからドン‼1枚を、アクティブで追加してもよい。",
       "trigger": "【トリガー】ドン‼-1：このカードを登場させる。",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,trg"
     },
     {
       "id": 3280,
@@ -83976,7 +85670,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3281,
@@ -83994,7 +85688,7 @@
       "effect": "【メイン】自分の「トラファルガー・ロー」1枚までを選び、このターン中、パワー+2000。その後、相手は、このターン中、選んだカードがアタックする場合【ブロッカー】を発動できない。",
       "trigger": "【トリガー】カード1枚を引く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,main,trg"
     },
     {
       "id": 3282,
@@ -84012,7 +85706,7 @@
       "effect": "【メイン】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、カード1枚を引く。その後、相手のキャラ1枚までを、このターン中、パワー-3000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3283,
@@ -84030,7 +85724,7 @@
       "effect": "【メイン】自分のリーダーが「サンジ」の場合、デッキの上から3枚を見て、カード1枚までを手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main"
     },
     {
       "id": 3284,
@@ -84048,7 +85742,7 @@
       "effect": "【起動メイン】このステージを持ち主のデッキの下に置くことができる：自分のリーダーが「サンジ」の場合、自分のデッキの上から3枚を見て、イベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "【トリガー】このカードを登場させる。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3285,
@@ -84066,7 +85760,7 @@
       "effect": "このリーダーが相手のリーダーにアタックした時、自分のコスト8以上のキャラが2枚以上いる場合、カード1枚を引く。【ターン1回】相手が、元々のコスト8以上のキャラを登場させた時かキャラの効果でキャラを登場させた時、発動できる。相手は自身のライフの上から1枚を、手札に加える。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt"
     },
     {
       "id": 3286,
@@ -84084,7 +85778,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3287,
@@ -84102,7 +85796,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3288,
@@ -84120,7 +85814,7 @@
       "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)【登場時】自分のリーダーが特徴《革命軍》を持つ場合、自分のデッキの上から3枚をトラッシュに置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3289,
@@ -84138,7 +85832,7 @@
       "effect": "自分のリーダーが特徴《革命軍》を持つ場合、このキャラのコスト+3。【アタック時】自分のリーダーが特徴《革命軍》を持ち、相手の手札が5枚以上ある場合、相手は自身の手札1枚を捨てる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "atk"
     },
     {
       "id": 3290,
@@ -84156,7 +85850,7 @@
       "effect": "【登場時】自分のリーダーが特徴《革命軍》を持つ場合、自分のデッキの上から3枚を見て、「コアラ」以外の特徴《革命軍》を持つカードか「ニコ・ロビン」1枚までを公開し、手札に加える。その後、残りをトラッシュに置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3291,
@@ -84174,7 +85868,7 @@
       "effect": "自分のリーダーが「コアラ」か「モンキー・Ｄ・ルフィ」の場合、このキャラは【ブロッカー】を得て、コスト+3。【登場時】自分の手札1枚を捨てることができる：相手の手札が5枚以上ある場合、相手は自身の手札2枚を捨てる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3292,
@@ -84192,7 +85886,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3293,
@@ -84210,7 +85904,7 @@
       "effect": "自分のリーダーが特徴《革命軍》を持つ場合、このキャラは【ブロッカー】を得て、コスト+4。【KO時】自分のリーダーが特徴《革命軍》を持つ場合、相手の元々のコスト4以下のキャラ1枚までを、KOする。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk,oko"
     },
     {
       "id": 3294,
@@ -84228,7 +85922,7 @@
       "effect": "【アタック時】自分のデッキの上から2枚をトラッシュに置くことができる：相手のキャラ1枚までを、このターン中、コスト-2。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "atk"
     },
     {
       "id": 3295,
@@ -84246,7 +85940,7 @@
       "effect": "【起動メイン】【ターン1回】自分のトラッシュからカード3枚を好きな順番でデッキの下に置くことができる：自分の特徴《SMILE》を持つキャラ2枚までを、このターン中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opt,main"
     },
     {
       "id": 3296,
@@ -84264,7 +85958,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3297,
@@ -84282,7 +85976,7 @@
       "effect": "自分のリーダーが特徴《革命軍》を持つ場合、このキャラのコスト+4。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3298,
@@ -84300,7 +85994,7 @@
       "effect": "【登場時】自分のトラッシュから特徴《革命軍》を持つカード3枚を好きな順番でデッキの下に置くことができる：自分のリーダーが特徴《革命軍》を持つ場合、自分のトラッシュからコスト6以下のキャラカード1枚までを、登場させる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3299,
@@ -84318,7 +86012,7 @@
       "effect": "自分のリーダーが特徴《革命軍》を持つ場合、このキャラのコスト+4。【登場時】カード1枚を引き、自分の手札1枚を捨てる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3300,
@@ -84336,7 +86030,7 @@
       "effect": "【メイン】相手のコスト4以下のキャラ1枚までを、KOする。自分のコスト8以上のキャラがいる場合、相手のコスト4以下のキャラの代わりに相手のコスト6以下のキャラを選ぶ。",
       "trigger": "【トリガー】カード1枚を引き、自分のデッキの上から1枚をトラッシュに置く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3301,
@@ -84354,7 +86048,7 @@
       "effect": "【メイン】自分のデッキの上から3枚を見て、「軍隊長集結」以外の特徴《革命軍》を持つカード1枚までを公開し、手札に加える。その後、残りをトラッシュに置く。",
       "trigger": "【トリガー】このカードの【メイン】効果を発動する。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3302,
@@ -84372,7 +86066,7 @@
       "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+2000。その後、自分のコスト8以上の特徴《革命軍》を持つキャラがいる場合、そのカードを、このバトル中、パワー+2000。",
       "trigger": "【トリガー】カード1枚を引き、自分のデッキの上から1枚をトラッシュに置く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg,ctr"
     },
     {
       "id": 3303,
@@ -84390,7 +86084,7 @@
       "effect": "【自分のターン中】ライフが離れた時、カード1枚を引く。その後、自分は、このターン中、自分の効果でカードを引くことができない。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "trn"
     },
     {
       "id": 3304,
@@ -84408,7 +86102,7 @@
       "effect": "自分のライフが3枚以下の場合、このキャラは【ブロッカー】を得て、コスト+3。【登場時】自分のライフの上から1枚を手札に加えることができる：カード2枚を引き、自分の手札1枚を捨てる。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3305,
@@ -84426,7 +86120,7 @@
       "effect": "【起動メイン】このキャラをレストにできる：自分の特徴《超新星》を持つリーダーは、次の相手のターン終了時まで、パワー+1000。",
       "trigger": "【トリガー】自分のリーダーが特徴《超新星》を持つ場合、このカードを登場させる。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3306,
@@ -84444,7 +86138,7 @@
       "effect": "自分の元々のコスト6以下のキャラが相手の効果で場を離れる場合、代わりに自分のライフの上から1枚を表向きにできる。【相手のターン中】自分の他の元々のコスト2の「しらほし」がいない場合、自分の特徴《海王類》を持つキャラすべてのパワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3307,
@@ -84462,7 +86156,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3308,
@@ -84480,7 +86174,7 @@
       "effect": "-",
       "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、KOする。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg"
     },
     {
       "id": 3309,
@@ -84498,7 +86192,7 @@
       "effect": "【自分のターン中】【登場時】自分の「トラファルガー・ロー」1枚までを、このターン中、パワー+2000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,trn"
     },
     {
       "id": 3310,
@@ -84516,7 +86210,7 @@
       "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "blk"
     },
     {
       "id": 3311,
@@ -84534,7 +86228,7 @@
       "effect": "自分のライフが2枚以下の場合、このキャラは【速攻】を得る。(このカードは登場したターンにアタックできる)【相手のターン中】【KO時】自分のデッキの上から1枚までを、ライフの上に加える。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "rsh,oko"
     },
     {
       "id": 3312,
@@ -84552,7 +86246,7 @@
       "effect": "【登場時】自分のデッキの上から5枚を見て、「トラファルガー・ロー」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl"
     },
     {
       "id": 3313,
@@ -84570,7 +86264,7 @@
       "effect": "-",
       "trigger": "【トリガー】相手のコスト1以下のキャラ1枚までを、KOし、このカードを手札に加える。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg"
     },
     {
       "id": 3314,
@@ -84588,7 +86282,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3315,
@@ -84606,7 +86300,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3316,
@@ -84624,7 +86318,7 @@
       "effect": "-",
       "trigger": "【トリガー】自分のリーダーが多色の場合、カード2枚を引く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg"
     },
     {
       "id": 3317,
@@ -84642,7 +86336,7 @@
       "effect": "【KO時】自分のリーダーが特徴《超新星》を持つ場合、自分の手札からコスト4以下の特徴《超新星》を持つキャラカード1枚までを、レストで登場させる。",
       "trigger": "【トリガー】相手のコスト1以下のキャラ1枚までを、KOし、このカードを手札に加える。",
       "art_variant": 0,
-      "tags": null
+      "tags": "trg,oko"
     },
     {
       "id": 3318,
@@ -84660,7 +86354,7 @@
       "effect": "-",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": ""
     },
     {
       "id": 3319,
@@ -84678,7 +86372,7 @@
       "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+2000。その後、自分のライフが2枚以下の場合、自分のトラッシュから「トラファルガー・ロー」1枚までを、手札に加える。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "ctr"
     },
     {
       "id": 3320,
@@ -84696,7 +86390,7 @@
       "effect": "【メイン】自分のデッキの上から5枚を見て、特徴《シャンドラの戦士》を持つキャラカードか「モンブラン・ノーランド」合計2枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
       "trigger": "【トリガー】カード1枚を引く。",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,trg"
     },
     {
       "id": 3321,
@@ -84714,7 +86408,7 @@
       "effect": "【メイン】自分のドン‼5枚をレストにできる：自分のリーダーが特徴《超新星》を持つ場合、コスト9以下のキャラ1枚までを、持ち主のライフの上か下に裏向きで加える。【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "main,ctr"
     },
     {
       "id": 3322,
@@ -84732,7 +86426,7 @@
       "effect": "【ブロッカー】【登場時】自分のレストのカードが8枚以上ある場合、カード2枚を引き、自分の手札1枚を捨てる。その後、自分のドン‼1枚までを、アクティブにする。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,blk"
     },
     {
       "id": 3323,
@@ -84750,7 +86444,7 @@
       "effect": "【登場時】自分の手札1枚を捨てることができる：自分のデッキの上から1枚までを、ライフの上に加える。その後、このキャラは、次の相手のエンドフェイズ終了時まで、コスト+2。【相手のターン中】【KO時】自分のデッキの上から1枚までを、ライフの上に加える。",
       "trigger": "",
       "art_variant": 0,
-      "tags": null
+      "tags": "opl,oko"
     },
     {
       "id": 3324,
@@ -91789,6 +93483,1176 @@
       "trigger": "",
       "art_variant": 2,
       "tags": "opt"
+    },
+    {
+      "id": 6423,
+      "code": "OP12-001",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-001_p1.png?250527",
+      "name": "シルバーズ・レイリー",
+      "category": "leader",
+      "type": "元ロジャー海賊団",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "red",
+      "sets": "-12】",
+      "effect": "ルール上、自分はコスト5以上のカードをデッキに入れることができない。【起動メイン】【ターン1回】自分の手札からイベント2枚を公開することができる：自分の元々のパワー4000以下のキャラ1枚までを、このターン中、パワー+2000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opt,main"
+    },
+    {
+      "id": 6431,
+      "code": "OP12-008",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-008_p1.png?250527",
+      "name": "シャンクス",
+      "category": "character",
+      "type": "四皇;赤髪海賊団",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 0,
+      "color": "red",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【相手のアタック時】【ターン1回】自分の手札1枚を捨てることができる：相手のリーダーかキャラ1枚までを、このターン中、パワー-2000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "oatk,opt,blk"
+    },
+    {
+      "id": 6438,
+      "code": "OP12-014",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-014_p1.png?250527",
+      "name": "ボア・ハンコック",
+      "category": "character",
+      "type": "王下七武海;九蛇海賊団",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 3000,
+      "counter": 0,
+      "color": "red",
+      "sets": "-12】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、「モンキー・Ｄ・ルフィ」か赤のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。【起動メイン】このキャラをトラッシュに置くことができる：自分のリーダーかキャラ1枚にレストのドン‼2枚までを、付与する。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl,main"
+    },
+    {
+      "id": 6440,
+      "code": "OP12-015",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-015_p1.png?250527",
+      "name": "モンキー・Ｄ・ルフィ",
+      "category": "character",
+      "type": "超新星;麦わらの一味",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 4000,
+      "counter": 1000,
+      "color": "red",
+      "sets": "-12】",
+      "effect": "自分の付与されているドン‼が合計2枚以上ある場合、このキャラのパワー+2000。【登場時】自分の手札からイベント2枚を公開することができる：自分の手札からパワー3000以下の赤のキャラカード1枚までを、登場させる。その後、自分のリーダーかキャラ1枚にレストのドン‼1枚までを、付与する。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6446,
+      "code": "OP12-020",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-020_p1.png?250527",
+      "name": "ロロノア・ゾロ",
+      "category": "leader",
+      "type": "超新星;麦わらの一味",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【ドン‼×3】【起動メイン】【ターン1回】このターン中、このリーダーが相手のキャラとバトルしている場合、このリーダーをアクティブにする。その後、このリーダーは、このターン中、相手の元々のコスト7以下のキャラへアタックできない。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "don,opt,main"
+    },
+    {
+      "id": 6457,
+      "code": "OP12-030",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-030_p1.png?250527",
+      "name": "ジュラキュール・ミホーク",
+      "category": "character",
+      "type": "シッケアール王国;王下七武海",
+      "cost": 8,
+      "attribute": "属性",
+      "power": 8000,
+      "counter": 0,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【登場時】自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト7以上のキャラカードを登場できない。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl,blk"
+    },
+    {
+      "id": 6459,
+      "code": "OP12-031",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-031_p1.png?250527",
+      "name": "たしぎ",
+      "category": "character",
+      "type": "東の海;海軍",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 7000,
+      "counter": 0,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【登場時】相手の元々のコスト6以下のキャラ1枚までを、レストにする。その後、自分のリーダーの「ロロノア・ゾロ」にレストのドン‼3枚までを、付与する。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6463,
+      "code": "OP12-034",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-034_p1.png?250527",
+      "name": "ペローナ",
+      "category": "character",
+      "type": "シッケアール王国;スリラーバーク海賊団",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【登場時】自分のリーダーが属性(斬)を持つ場合、自分のデッキの上から5枚を見て、属性(斬)を持つカードか緑のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6467,
+      "code": "OP12-037",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-037_p1.png?250527",
+      "name": "鬼気 九刀流 阿修羅 抜剣 亡者戯",
+      "category": "event",
+      "type": "麦わらの一味",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 0,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【メイン】自分のドン‼3枚をレストにできる：相手の、キャラかドン‼合計2枚までを、レストにする。【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "main,ctr"
+    },
+    {
+      "id": 6471,
+      "code": "OP12-040",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-040_p1.png?250527",
+      "name": "クザン",
+      "category": "leader",
+      "type": "海軍",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "blue",
+      "sets": "-12】",
+      "effect": "自分の特徴《海軍》を持つカードの効果で自分の手札からカードが捨てられた時、捨てた枚数分カードを引く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": ""
+    },
+    {
+      "id": 6473,
+      "code": "OP12-041",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-041_p1.png?250527",
+      "name": "サンジ",
+      "category": "leader",
+      "type": "ヴィンスモーク家;麦わらの一味",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "blue purple",
+      "sets": "-12】",
+      "effect": "【起動メイン】【ターン1回】ドン‼-1：自分の手札から元々のコスト3以下の特徴《麦わらの一味》を持つイベント1枚までを、発動する。【アタック時】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、ドン‼デッキからドン‼1枚までを、レストで追加する。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "atk,opt,main"
+    },
+    {
+      "id": 6476,
+      "code": "OP12-043",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-043_p1.png?250527",
+      "name": "クザン",
+      "category": "character",
+      "type": "海軍",
+      "cost": 6,
+      "attribute": "属性",
+      "power": 8000,
+      "counter": 0,
+      "color": "blue",
+      "sets": "-12】",
+      "effect": "自分の手札が5枚以上の場合、このキャラのコスト+1。【登場時】自分の手札1枚を捨てることができる：相手のキャラ1枚までは、次の相手のエンドフェイズ終了時まで、アタックできない。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6490,
+      "code": "OP12-056",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-056_p1.png?250527",
+      "name": "モンキー・Ｄ・ガープ",
+      "category": "character",
+      "type": "海軍",
+      "cost": 8,
+      "attribute": "属性",
+      "power": 8000,
+      "counter": 0,
+      "color": "blue",
+      "sets": "-12】",
+      "effect": "【登場時】自分の手札1枚を捨てることができる：自分の手札から「モンキー・Ｄ・ガープ」以外のパワー8000以下の青の特徴《海軍》を持つキャラカード1枚までを、登場させる。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6495,
+      "code": "OP12-060",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-060_p1.png?250527",
+      "name": "牛肉バースト",
+      "category": "event",
+      "type": "麦わらの一味",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 0,
+      "color": "blue",
+      "sets": "-12】",
+      "effect": "【メイン】自分のリーダーが多色の場合、以下から1つを選ぶ。・相手のコスト4以下のキャラ1枚までを、持ち主の手札に戻す。・自分の手札が6枚以下の場合、カード2枚を引く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "main"
+    },
+    {
+      "id": 6497,
+      "code": "OP12-061",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-061_p1.png?250527",
+      "name": "ドンキホーテ・ロシナンテ",
+      "category": "leader",
+      "type": "海軍;ドンキホーテ海賊団",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "purple yellow",
+      "sets": "-12】",
+      "effect": "【ターン1回】自分の「トラファルガー・ロー」がKOされる場合、代わりに自分のライフの上から1枚を手札に加えることができる。【起動メイン】【ターン1回】ドン‼-1：このターン中、次に自分が手札から登場させるコスト4以上の「トラファルガー・ロー」の支払うコストは2少なくなる。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opt,main"
+    },
+    {
+      "id": 6500,
+      "code": "OP12-063",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-063_p1.png?250527",
+      "name": "ヴィンスモーク・レイジュ",
+      "category": "character",
+      "type": "ヴィンスモーク家;ジェルマ66",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 1000,
+      "color": "purple",
+      "sets": "-12】",
+      "effect": "自分のトラッシュにイベントが4枚以上ある場合、このキャラのパワー+2000し、コスト+5。【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "blk"
+    },
+    {
+      "id": 6508,
+      "code": "OP12-070",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-070_p1.png?250527",
+      "name": "サンジ",
+      "category": "character",
+      "type": "アラバスタ王国;麦わらの一味",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "purple",
+      "sets": "-12】",
+      "effect": "このキャラは、自分のトラッシュにあるイベント5枚につき、パワー+1000。このキャラが相手の効果で場を離れる場合、代わりに自分の場のドン‼1枚をドン‼デッキに戻すことができる。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": ""
+    },
+    {
+      "id": 6512,
+      "code": "OP12-073",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-073_p1.png?250527",
+      "name": "トラファルガー・ロー",
+      "category": "character",
+      "type": "ドレスローザ;超新星;ハートの海賊団",
+      "cost": 7,
+      "attribute": "属性",
+      "power": 8000,
+      "counter": 0,
+      "color": "purple",
+      "sets": "-12】",
+      "effect": "【登場時】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、ドン‼デッキからドン‼1枚までを、アクティブで追加する。その後、自分の、「ドンキホーテ・ロシナンテ」と特徴《ハートの海賊団》を持つキャラすべてを、次の相手のエンドフェイズ終了時まで、パワー+1000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6521,
+      "code": "OP12-081",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-081_p1.png?250527",
+      "name": "コアラ",
+      "category": "leader",
+      "type": "ドレスローザ;革命軍",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "black yellow",
+      "sets": "-12】",
+      "effect": "このリーダーが相手のリーダーにアタックした時、自分のコスト8以上のキャラが2枚以上いる場合、カード1枚を引く。【ターン1回】相手が、元々のコスト8以上のキャラを登場させた時かキャラの効果でキャラを登場させた時、発動できる。相手は自身のライフの上から1枚を、手札に加える。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opt"
+    },
+    {
+      "id": 6527,
+      "code": "OP12-086",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-086_p1.png?250527",
+      "name": "コアラ",
+      "category": "character",
+      "type": "ドレスローザ;革命軍",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "【登場時】自分のリーダーが特徴《革命軍》を持つ場合、自分のデッキの上から3枚を見て、「コアラ」以外の特徴《革命軍》を持つカードか「ニコ・ロビン」1枚までを公開し、手札に加える。その後、残りをトラッシュに置く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6529,
+      "code": "OP12-087",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-087_p1.png?250527",
+      "name": "ニコ・ロビン",
+      "category": "character",
+      "type": "麦わらの一味",
+      "cost": 6,
+      "attribute": "属性",
+      "power": 7000,
+      "counter": 0,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "自分のリーダーが「コアラ」か「モンキー・Ｄ・ルフィ」の場合、このキャラは【ブロッカー】を得て、コスト+3。【登場時】自分の手札1枚を捨てることができる：相手の手札が5枚以上ある場合、相手は自身の手札2枚を捨てる。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl,blk"
+    },
+    {
+      "id": 6537,
+      "code": "OP12-094",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-094_p1.png?250527",
+      "name": "モンキー・Ｄ・ドラゴン",
+      "category": "character",
+      "type": "革命軍",
+      "cost": 8,
+      "attribute": "属性",
+      "power": 8000,
+      "counter": 0,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "【登場時】自分のトラッシュから特徴《革命軍》を持つカード3枚を好きな順番でデッキの下に置くことができる：自分のリーダーが特徴《革命軍》を持つ場合、自分のトラッシュからコスト6以下のキャラカード1枚までを、登場させる。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6546,
+      "code": "OP12-102",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-102_p1.png?250527",
+      "name": "しらほし",
+      "category": "character",
+      "type": "人魚族;魚人島",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": "-12】",
+      "effect": "自分の元々のコスト6以下のキャラが相手の効果で場を離れる場合、代わりに自分のライフの上から1枚を表向きにできる。【相手のターン中】自分の他の元々のコスト2の「しらほし」がいない場合、自分の特徴《海王類》を持つキャラすべてのパワー+2000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": ""
+    },
+    {
+      "id": 6553,
+      "code": "OP12-108",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-108_p1.png?250527",
+      "name": "ドンキホーテ・ロシナンテ",
+      "category": "character",
+      "type": "海軍;ドンキホーテ海賊団",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": "-12】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、「トラファルガー・ロー」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 6564,
+      "code": "OP12-118",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-118_p1.png?250527",
+      "name": "ジュエリー・ボニー",
+      "category": "character",
+      "type": "超新星;ボニー海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 1000,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【登場時】自分のレストのカードが8枚以上ある場合、カード2枚を引き、自分の手札1枚を捨てる。その後、自分のドン‼1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl,blk"
+    },
+    {
+      "id": 6565,
+      "code": "OP12-118",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-118_p2.png?250527",
+      "name": "ジュエリー・ボニー",
+      "category": "character",
+      "type": "超新星;ボニー海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 1000,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【登場時】自分のレストのカードが8枚以上ある場合、カード2枚を引き、自分の手札1枚を捨てる。その後、自分のドン‼1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 2,
+      "tags": "opl,blk"
+    },
+    {
+      "id": 6567,
+      "code": "OP12-119",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP12-119_p1.png?250527",
+      "name": "バーソロミュー・くま",
+      "category": "character",
+      "type": "王下七武海;革命軍",
+      "cost": 6,
+      "attribute": "属性",
+      "power": 7000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": "-12】",
+      "effect": "【登場時】自分の手札1枚を捨てることができる：自分のデッキの上から1枚までを、ライフの上に加える。その後、このキャラは、次の相手のエンドフェイズ終了時まで、コスト+2。【相手のターン中】【KO時】自分のデッキの上から1枚までを、ライフの上に加える。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl,oko"
+    },
+    {
+      "id": 6568,
+      "code": "OP06-050",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-050_p2.png?250527",
+      "name": "たしぎ",
+      "category": "character",
+      "type": "海軍",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "blue",
+      "sets": "-12】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、「たしぎ」以外の特徴《海軍》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "",
+      "art_variant": 2,
+      "tags": "opl"
+    },
+    {
+      "id": 6569,
+      "code": "OP09-013",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png?250527",
+      "name": "ヤソップ",
+      "category": "character",
+      "type": "赤髪海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 1000,
+      "color": "red",
+      "sets": "-12】",
+      "effect": "【登場時】自分のリーダー1枚までを、次の相手のターン終了時まで、パワー+1000。【ドン‼×1】【アタック時】相手のキャラ1枚までを、このターン中、パワー-1000。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "atk,don,opl"
+    },
+    {
+      "id": 6570,
+      "code": "OP09-037",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?250527",
+      "name": "リム",
+      "category": "character",
+      "type": "ODYSSEY",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "green",
+      "sets": "-12】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、「リム」以外の特徴《ODYSSEY》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。【自分のターン終了時】自分のレストのキャラが3枚以上いる場合、このキャラをアクティブにする。",
+      "trigger": "",
+      "art_variant": 2,
+      "tags": "opl,end"
+    },
+    {
+      "id": 6571,
+      "code": "OP09-093",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?250527",
+      "name": "マーシャル・D・ティーチ",
+      "category": "character",
+      "type": "四皇;黒ひげ海賊団",
+      "cost": 10,
+      "attribute": "属性",
+      "power": 12000,
+      "counter": 0,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【起動メイン】【ターン1回】自分のリーダーが特徴《黒ひげ海賊団》を持ち、このキャラが登場したターンの場合、相手のリーダー1枚までを、このターン中、効果を無効にする。その後、相手のキャラ1枚までを、次の相手のターン終了時まで、効果を無効にし、そのキャラはアタックできない。",
+      "trigger": "",
+      "art_variant": 4,
+      "tags": "opt,blk,main"
+    },
+    {
+      "id": 6572,
+      "code": "OP09-093",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?250527",
+      "name": "マーシャル・D・ティーチ",
+      "category": "character",
+      "type": "四皇;黒ひげ海賊団",
+      "cost": 10,
+      "attribute": "属性",
+      "power": 12000,
+      "counter": 0,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "【ブロッカー】【起動メイン】【ターン1回】自分のリーダーが特徴《黒ひげ海賊団》を持ち、このキャラが登場したターンの場合、相手のリーダー1枚までを、このターン中、効果を無効にする。その後、相手のキャラ1枚までを、次の相手のターン終了時まで、効果を無効にし、そのキャラはアタックできない。",
+      "trigger": "",
+      "art_variant": 5,
+      "tags": "opt,blk,main"
+    },
+    {
+      "id": 6573,
+      "code": "OP10-082",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP10-082_p2.png?250527",
+      "name": "クザン",
+      "category": "character",
+      "type": "元海軍;黒ひげ海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "black",
+      "sets": "-12】",
+      "effect": "このキャラは相手の効果で場を離れない。【起動メイン】このキャラをトラッシュに置くことができる：カード1枚を引く。その後、自分のトラッシュから「クザン」以外のコスト5以下の特徴《黒ひげ海賊団》を持つキャラカード1枚までを、登場させる。",
+      "trigger": "",
+      "art_variant": 2,
+      "tags": "main"
+    },
+    {
+      "id": 6574,
+      "code": "ST13-011",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST13-011_p2.png?250527",
+      "name": "ポートガス・D・エース",
+      "category": "character",
+      "type": "白ひげ海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 7000,
+      "counter": 0,
+      "color": "yellow",
+      "sets": "-12】",
+      "effect": "【登場時】自分のライフが2枚以下の場合、このキャラは【速攻】を得る。(このカードは登場したターンにアタックできる)",
+      "trigger": "",
+      "art_variant": 2,
+      "tags": "opl,rsh"
+    },
+    {
+      "id": 6575,
+      "code": "ST18-004",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png?250527",
+      "name": "ゾロ十郎",
+      "category": "character",
+      "type": "麦わらの一味",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 0,
+      "color": "purple",
+      "sets": "-12】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、紫の特徴《麦わらの一味》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "",
+      "art_variant": 1,
+      "tags": "opl"
+    },
+    {
+      "id": 8254,
+      "code": "OP06-022",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png?250527",
+      "name": "ヤマト",
+      "category": "leader",
+      "type": "ワノ国",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "green yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ダブルアタック】(このカードが与えるダメージは2になる)【起動メイン】【ターン1回】相手のライフが3枚以下の場合、自分のキャラ1枚にレストのドン!!2枚までを、付与する。",
+      "trigger": "",
+      "art_variant": 3,
+      "tags": "opt,main,dbl"
+    },
+    {
+      "id": 8255,
+      "code": "OP06-100",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png?250527",
+      "name": "イヌアラシ",
+      "category": "character",
+      "type": "ミンク族;ワノ国;赤鞘九人男",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ドン‼×2】【アタック時】自分の手札1枚を捨てることができる：相手のライフの枚数以下のコストを持つ相手のキャラ1枚までを、KOする。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "atk,don,trg"
+    },
+    {
+      "id": 8256,
+      "code": "OP06-103",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png?250527",
+      "name": "河松",
+      "category": "character",
+      "type": "魚人族;ワノ国;赤鞘九人男",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【アタック時】自分の手札2枚を捨てることができる：自分のパワー0のキャラ1枚までを、持ち主のライフの上か下に表向きで置く。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "atk,trg"
+    },
+    {
+      "id": 8257,
+      "code": "OP06-104",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png?250527",
+      "name": "菊之丞",
+      "category": "character",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 0,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【KO時】相手のライフが3枚以下の場合、自分のデッキの上から1枚までを、ライフの上に加える。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "trg,oko"
+    },
+    {
+      "id": 8258,
+      "code": "OP06-109",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png?250527",
+      "name": "傳ジロー",
+      "category": "character",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 0,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ドン‼×2】相手のライフが3枚以下の場合、このキャラは効果でKOされない。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "don,trg"
+    },
+    {
+      "id": 8259,
+      "code": "OP06-110",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png?250527",
+      "name": "ネコマムシ",
+      "category": "character",
+      "type": "ミンク族;ワノ国;赤鞘九人男",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ドン‼×2】このキャラは、相手のアクティブのキャラにもアタックできる。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "don,trg"
+    },
+    {
+      "id": 8260,
+      "code": "OP06-112",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png?250527",
+      "name": "雷ぞう",
+      "category": "character",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 4000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【アタック時】自分の手札1枚を捨てることができる：相手のドン‼1枚までを、レストにする。",
+      "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": "atk,trg"
+    },
+    {
+      "id": 8261,
+      "code": "OP07-116",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png?250527",
+      "name": "焔裂き",
+      "category": "event",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 0,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【メイン】/【カウンター】自分のリーダーかキャラ1枚までを、このターン中、パワー+1000。その後、相手のライフが2枚以下の場合、相手のコスト4以下のキャラ1枚までを、レストにする。",
+      "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、レストにする。",
+      "art_variant": 1,
+      "tags": "main,trg,ctr"
+    },
+    {
+      "id": 8262,
+      "code": "OP09-035",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png?250527",
+      "name": "ポートガス・D・エース",
+      "category": "character",
+      "type": "ODYSSEY;白ひげ海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 2000,
+      "color": "green",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【登場時】自分のレストのキャラが2枚以上いる場合、相手のコスト5以下のキャラ1枚までを、レストにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "opl"
+    },
+    {
+      "id": 8263,
+      "code": "ST13-016",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png?250527",
+      "name": "ヤマト",
+      "category": "character",
+      "type": "ワノ国",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 4000,
+      "counter": 2000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【速攻】(このカードは登場したターンにアタックできる)【登場時】自分のライフすべてを見て、1枚を自分のデッキの上に置き、ライフを好きな順番で置く。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "opl,rsh"
+    },
+    {
+      "id": 8264,
+      "code": "ST28-001",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST28-001.png?250527",
+      "name": "アシュラ童子",
+      "category": "character",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 3000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【登場時】自分のリーダーが特徴《ワノ国》を持ち、相手のライフが3枚以上の場合、相手の元々のコスト5以下のキャラ1枚までを、KOする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8265,
+      "code": "ST28-002",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST28-002.png?250527",
+      "name": "イゾウ",
+      "category": "character",
+      "type": "ワノ国;元白ひげ海賊団",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 1000,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ドン‼×2】このキャラは【ブロッカー】を得る。【登場時】自分の特徴《ワノ国》を持つリーダーは、このターン中、【バニッシュ】を得る。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8266,
+      "code": "ST28-003",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST28-003.png?250527",
+      "name": "錦えもん",
+      "category": "character",
+      "type": "ワノ国;赤鞘九人男",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 2000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "-",
+      "trigger": "【トリガー】自分のリーダーが特徴《ワノ国》を持ち、相手のライフが3枚以下の場合、このカードを登場させる。",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8267,
+      "code": "ST28-004",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST28-004.png?250527",
+      "name": "光月モモの助",
+      "category": "character",
+      "type": "ワノ国;光月家",
+      "cost": 6,
+      "attribute": "属性",
+      "power": 7000,
+      "counter": 0,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【自分のターン中】自分のライフが2枚以下の場合、自分のリーダーのパワー+1000。【起動メイン】【ターン1回】自分の付与されているドン‼合計2枚をコストエリアにレストで戻すことができる：このキャラは、このターン中、【速攻】を得て、パワー+1000。(このカードは登場したターンにアタックできる)",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8268,
+      "code": "ST28-005",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST28-005.png?250527",
+      "name": "ヤマト",
+      "category": "character",
+      "type": "ワノ国",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 1000,
+      "color": "yellow",
+      "sets": " 緑黄 ヤマト【ST-28】",
+      "effect": "【ドン‼×2】【自分のターン中】このキャラのパワー+3000。【登場時】自分のデッキの上から5枚を見て、コスト2以上の特徴《ワノ国》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8314,
+      "code": "EB01-015",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png?250527",
+      "name": "スクラッチメン・アプー",
+      "category": "character",
+      "type": "超新星;オンエア海賊団",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 1000,
+      "counter": 2000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【登場時】相手のコスト2以下のキャラ1枚までを、レストにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "opl"
+    },
+    {
+      "id": 8315,
+      "code": "OP07-019",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png?250527",
+      "name": "ジュエリー・ボニー",
+      "category": "leader",
+      "type": "超新星;ボニー海賊団",
+      "cost": 0,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 0,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【相手のアタック時】【ターン1回】自分のドン‼1枚をレストにできる：相手の、リーダーかキャラ1枚までを、レストにする。",
+      "trigger": "",
+      "art_variant": 3,
+      "tags": "oatk,opt"
+    },
+    {
+      "id": 8316,
+      "code": "OP07-021",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png?250527",
+      "name": "ウルージ",
+      "category": "character",
+      "type": "超新星;破戒僧海賊団",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)【自分のターン終了時】自分のドン!!1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "blk,end"
+    },
+    {
+      "id": 8317,
+      "code": "OP07-023",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png?250527",
+      "name": "カリブー",
+      "category": "character",
+      "type": "超新星;カリブー海賊団",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "自分のレストのドン‼が6枚以上ある場合、このキャラはパワー+1000。【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "blk"
+    },
+    {
+      "id": 8318,
+      "code": "OP07-025",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-025_r1.png?250527",
+      "name": "コリブー",
+      "category": "character",
+      "type": "超新星;カリブー海賊団",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 3000,
+      "counter": 0,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【登場時】自分の手札からコスト4以下の「カリブー」1枚までを、レストで登場させる。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "opl"
+    },
+    {
+      "id": 8319,
+      "code": "OP07-031",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png?250527",
+      "name": "バルトロメオ",
+      "category": "character",
+      "type": "超新星;バルトクラブ",
+      "cost": 3,
+      "attribute": "属性",
+      "power": 4000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)【自分のターン中】【ターン1回】キャラが自分の効果でレストになった時、カード1枚を引き、自分の手札1枚を捨てる。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "opt,blk,trn"
+    },
+    {
+      "id": 8320,
+      "code": "OP07-033",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-033_r1.png?250527",
+      "name": "モンキー・Ｄ・ルフィ",
+      "category": "character",
+      "type": "超新星;麦わらの一味",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 6000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "自分のキャラが3枚以上いる場合、自分の、「モンキー・Ｄ・ルフィ」以外のコスト3以下のキャラは相手の効果でKOされない。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": ""
+    },
+    {
+      "id": 8321,
+      "code": "OP07-034",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-034_r1.png?250527",
+      "name": "ロロノア・ゾロ",
+      "category": "character",
+      "type": "超新星;麦わらの一味",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【アタック時】自分のキャラが3枚以上いる場合、このキャラは、このターン中、パワー+2000。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": "atk"
+    },
+    {
+      "id": 8322,
+      "code": "OP07-036",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.png?250527",
+      "name": "鬼気 九刀流 阿修羅 魔九閃",
+      "category": "event",
+      "type": "超新星;麦わらの一味",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 0,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【メイン】自分のリーダーかキャラ1枚までを、このターン中、パワー+3000。その後、自分のコスト3以上のキャラ1枚をレストにできる。そうした場合、相手のコスト5以下のキャラ1枚までを、レストにする。",
+      "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、レストにする。",
+      "art_variant": 1,
+      "tags": "main,trg"
+    },
+    {
+      "id": 8323,
+      "code": "OP07-037",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/OP07-037_r1.png?250527",
+      "name": "ピザお～か～わ～り～!!!",
+      "category": "event",
+      "type": "超新星;ボニー海賊団",
+      "cost": 1,
+      "attribute": "属性",
+      "power": 0,
+      "counter": 0,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【メイン】自分のデッキの上から5枚を見て、「ピザお～か～わ～り～!!!」以外の特徴《超新星》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+      "trigger": "【トリガー】カード1枚を引く。",
+      "art_variant": 0,
+      "tags": "main,trg"
+    },
+    {
+      "id": 8324,
+      "code": "ST24-001",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST24-001.png?250527",
+      "name": "カポネ・ベッジ",
+      "category": "character",
+      "type": "超新星;ファイアタンク海賊団",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 1000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)【登場時】自分のレストのカードが6枚以上ある場合、カード1枚を引き、自分の手札1枚を捨てる。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8325,
+      "code": "ST24-002",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST24-002.png?250527",
+      "name": "キッド＆キラー",
+      "category": "character",
+      "type": "超新星;キッド海賊団",
+      "cost": 2,
+      "attribute": "属性",
+      "power": 2000,
+      "counter": 1000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【登場時】自分のデッキの上から5枚を見て、特徴《超新星》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。【相手のアタック時】このキャラをトラッシュに置くことができる：自分のドン!!1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8326,
+      "code": "ST24-003",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST24-003.png?250527",
+      "name": "バジル・ホーキンス",
+      "category": "character",
+      "type": "超新星;ホーキンス海賊団",
+      "cost": 4,
+      "attribute": "属性",
+      "power": 4000,
+      "counter": 2000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【自分のターン終了時】自分のドン!!1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8327,
+      "code": "ST24-004",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST24-004.png?250527",
+      "name": "ロー＆ベポ",
+      "category": "character",
+      "type": "ミンク族;超新星;ハートの海賊団",
+      "cost": 10,
+      "attribute": "属性",
+      "power": 11000,
+      "counter": 0,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【登場時】相手のキャラ1枚までを、レストにし、そのキャラは次の相手のリフレッシュフェイズでアクティブにならない。その後、相手のレストのキャラが2枚以上いる場合、自分のリーダーを、次の相手のエンドフェイズ終了時まで、パワー+2000。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
+    },
+    {
+      "id": 8328,
+      "code": "ST24-005",
+      "image": "https://onepiece-cardgame.com/images/cardlist/card/ST24-005.png?250527",
+      "name": "X・ドレーク",
+      "category": "character",
+      "type": "超新星;海軍;ドレーク海賊団",
+      "cost": 5,
+      "attribute": "属性",
+      "power": 5000,
+      "counter": 2000,
+      "color": "green",
+      "sets": " 緑 ジュエリー・ボニー【ST-24】",
+      "effect": "【登場時】自分のリーダーが特徴《超新星》を持つ場合、相手のコスト5以下のキャラ1枚までを、レストにする。その後、このターン終了時、自分のドン!!1枚までを、アクティブにする。",
+      "trigger": "",
+      "art_variant": 0,
+      "tags": null
     }
   ]
 }
